@@ -1,0 +1,1450 @@
+2816	B-PER/Christian;I-PER/Bale;B-MISC/The;I-MISC/Dark;I-MISC/Knight;I-MISC/Rises
+2817	
+2818	
+2819	
+2820	
+2821	B-LOC/Ontario;B-LOC/Canada
+2822	
+2823	B-PER/Bill;I-PER/Maher's;B-ORG/Caesars;I-ORG/Atlantic
+2824	B-PER/Billy;I-PER/Cox
+2825	B-PER/Joel;I-PER/Osteen
+2826	B-PER/Teilhard;I-PER/De;I-PER/Chardin
+2827	B-PER/Julian;I-PER/Fantino
+2828	B-PER/Dominic;I-PER/McGuire
+2829	B-PER/Charlotte;I-PER/Bobcats
+2830	B-PER/Lewis
+2831	B-PER/Travis;I-PER/Porter
+2832	
+2833	
+2834	B-LOC/New;I-LOC/Jersey;I-LOC/Transit
+2835	B-PER/Jimmy;I-PER/Johns
+2836	B-PER/Bernie;I-PER/Madoff;B-ORG/CNBC
+2837	B-PER/Leonardo;I-PER/DiCaprio's
+2838	B-PER/Bret;I-PER/Michaels
+2839	B-PER/Cowell
+2840	B-PER/Willie;I-PER/Nelson
+2841	
+2842	B-PER/Kanye
+2843	
+2844	B-PER/John;I-PER/Lennon's
+2845	
+2846	B-PER/Reggie;I-PER/Bush
+2847	B-PER/Jason;I-PER/Garrett
+2848	B-PER/Maxine;I-PER/Waters
+2849	B-LOC/Chattanooga;I-LOC/Rallies;B-PER/DeAntre;I-PER/Jefferson
+2850	B-PER/William;B-PER/Kate;I-PER/Plan
+2851	B-LOC/NY;B-PER/Rangel
+2852	B-PER/George;I-PER/W;I-PER/.;I-PER/Bush
+2853	B-PER/Sarah;I-PER/Palin;B-PER/Barbara;I-PER/Walters;B-PER/Obama
+2854	B-PER/Julian;I-PER/Fantino
+2855	B-PER/Julian;I-PER/Fantino
+2856	B-PER/Julian;I-PER/Fantino
+2857	B-PER/Glen;I-PER/Davis
+2858	B-PER/Rajon;I-PER/Rondo
+2859	B-PER/Rajon;I-PER/Rondo;B-PER/Avery;I-PER/Bradley
+2860	B-PER/Andrew;I-PER/Carnegie
+2861	B-PER/Gandhi
+2862	
+2863	B-PER/Andre;I-PER/Johnson
+2864	B-PER/Mike;I-PER/Tomlin
+2865	B-PER/Dr;I-PER/Gratton
+2866	B-PER/Derrick;I-PER/Rose
+2867	B-LOC/San;I-LOC/Francisco;B-PER/John;I-PER/Toomey
+2868	
+2869	B-PER/Winston;I-PER/Churchill
+2870	B-PER/Edu;I-PER/Dept
+2871	B-PER/Donald;I-PER/Trump;B-PER/Palin
+2872	B-LOC/Indiana;I-LOC/Jones;B-PER/Harrison;I-PER/Ford
+2873	B-PER/Leslie;I-PER/Nielsen
+2874	B-PER/Rob;I-PER/Ford
+2875	
+2876	
+2877	B-PER/Larry;I-PER/King
+2878	
+2879	
+2880	
+2881	B-PER/Obama
+2882	B-PER/Murkowski
+2883	
+2884	B-ORG/Twitter
+2885	B-ORG/TSA
+2886	B-PER/Larry;I-PER/King
+2887	B-PER/Suu;I-PER/Kyi
+2888	
+2889	
+2890	
+2891	B-LOC/Illinois;I-LOC/Senate;B-PER/Pat;I-PER/Quinn
+2892	
+2893	
+2894	B-MISC/Soul;I-MISC/Train;I-MISC/Awards
+2895	B-PER/Daniel;I-PER/Radcliffe
+2896	B-PER/Daniel;I-PER/Radcliffe
+2897	B-PER/Tracy;I-PER/Morgan
+2898	B-PER/Chris;I-PER/Daughtry
+2899	B-PER/Emma;I-PER/Watson
+2900	B-PER/Emma;I-PER/Watson
+2901	B-PER/Lindsay;I-PER/Lohan
+2902	B-PER/Oksana;I-PER/Grigorieva;B-PER/Mel
+2903	B-PER/Rihanna;B-PER/Drake
+2904	B-PER/Woody;I-PER/Allen
+2905	B-PER/Larry;I-PER/King
+2906	
+2907	
+2908	B-PER/Bill;I-PER/Tarmey;B-PER/Corrie;B-PER/Bill;I-PER/Tarmey
+2909	B-PER/Simon;I-PER/Gregson's;B-PER/Simon;I-PER/Gregson's
+2910	B-PER/Liz;I-PER/McDonald's
+2911	B-PER/Karl;I-PER/Lagerfeld;B-PER/Chanel
+2912	B-PER/Maxine;I-PER/Waters
+2913	B-PER/Chris;I-PER/Bosh
+2914	B-PER/Donovan;I-PER/Mcrib
+2915	B-PER/Tony;I-PER/Yayo
+2916	B-PER/Roy;I-PER/Williams
+2917	
+2918	
+2919	B-ORG/Chelsea;B-PER/Carlo;I-PER/Ancelotti
+2920	B-PER/Jeff;I-PER/Bridges
+2921	B-ORG/Chelsea;B-PER/Carlo;I-PER/Ancelotti
+2922	B-PER/Mariana;I-PER/Klaveno
+2923	B-PER/Julian;I-PER/Fantino
+2924	B-PER/Keeley;I-PER/Hawes;B-PER/Keeley;I-PER/Hawes
+2925	B-PER/Matthew;I-PER/Macfadyen;B-MISC/Any;I-MISC/Human;I-MISC/Heart
+2926	B-PER/Matthew;I-PER/Macfadyen;B-PER/Matthew;I-PER/Macfadyen;B-PER/Matthew
+2927	B-PER/Matthew;I-PER/Macfadyen
+2928	B-PER/Julian;I-PER/Fantino
+2929	
+2930	
+2931	B-PER/Gillian;I-PER/McKeith;B-PER/Gillian;I-PER/McKeith;B-PER/Kate;I-PER/M
+2932	B-PER/Jim;I-PER/Bohannon
+2933	B-PER/Jermain;I-PER/Defoe
+2934	
+2935	B-PER/Sepp;I-PER/Blatter
+2936	
+2937	I-PER/Norris
+2938	B-ORG/Fox;I-ORG/News;B-PER/Sarah;I-PER/Palin
+2939	B-LOC/US
+2940	B-PER/Wesley;I-PER/Snipes
+2941	B-PER/Steve;I-PER/Irwin
+2942	B-PER/Sarah;I-PER/Palin;B-PER/Kim;I-PER/Jung
+2943	B-LOC/Chicago
+2944	
+2945	B-PER/Elizabeth
+2946	B-PER/Chris;I-PER/Brown
+2947	
+2948	
+2949	B-LOC/north;I-LOC/west
+2950	B-PER/Paul;I-PER/Seale
+2951	
+2952	
+2953	B-PER/Rihanna
+2954	B-PER/Albert;I-PER/Einstein
+2955	
+2956	B-PER/Leslie;I-PER/Nielsen;B-PER/Shirley
+2957	
+2958	B-PER/William;I-PER/J;I-PER/.;I-PER/Toms
+2959	B-PER/Mahatma;I-PER/Gandhi
+2960	B-PER/Wayne;I-PER/Dyer
+2961	B-PER/Oscar;I-PER/Wilde
+2962	B-PER/Abraham;I-PER/Lincoln
+2963	B-PER/Abraham;I-PER/Lincoln
+2964	B-PER/Albert;I-PER/Camus
+2965	B-PER/Robert;I-PER/Louis;I-PER/Stevenson
+2966	B-PER/John;I-PER/Locke
+2967	B-PER/Albert;I-PER/Camus
+2968	B-PER/George;I-PER/Orwell
+2969	B-PER/Samuel;I-PER/Johnson
+2970	B-PER/Albert;I-PER/Einstein
+2971	B-PER/Friedrich;I-PER/Nietzsche
+2972	B-PER/Obama;B-PER/Dick;I-PER/Cheney
+2973	B-PER/BJ;I-PER/Raji
+2974	B-PER/Akon
+2975	B-PER/Jim;I-PER/Royle
+2976	B-PER/Julian;I-PER/Assange
+2977	B-PER/Henry;I-PER/Moore
+2978	B-PER/Thomas;I-PER/Carlyle
+2979	B-PER/Elbert;I-PER/Hubbard
+2980	B-PER/David;I-PER/Lynch
+2981	B-PER/John;I-PER/Cassavetes
+2982	B-PER/Michael
+2983	B-PER/Sarah;I-PER/Palin
+2984	B-PER/Woody;I-PER/Allen's;B-PER/Billy;I-PER/Graham
+2985	B-PER/Barbra;I-PER/Streisand
+2986	B-PER/Albert;I-PER/Einstein
+2987	B-PER/Vince;I-PER/Vaughn's
+2988	
+2989	
+2990	B-PER/Charlie;I-PER/Sheen's
+2991	B-PER/Ronni;I-PER/Chasen's
+2992	B-PER/Taylor;I-PER/Swift's
+2993	B-PER/Acorn;I-PER/Squash-Japanese
+2994	B-PER/De;I-PER/Vrij
+2995	B-ORG/Yankees;B-PER/Cliff;I-PER/Lee;B-PER/Mark;I-PER/Prior
+2996	B-ORG/Chicago;I-ORG/Bears;B-PER/Jay;I-PER/Cutler's
+2997	B-PER/Hanie;B-ORG/bears;B-PER/Cutler
+2998	B-PER/Albert;I-PER/Einstein
+2999	B-PER/George;I-PER/W;I-PER/.;I-PER/Bush
+3000	B-PER/Ralph;I-PER/Waldo;I-PER/Emerson
+3001	B-PER/OBAMA
+3002	B-PER/George;I-PER/Harrison's
+3003	B-PER/Jesus;I-PER/Christ
+3004	
+3005	B-PER/Mike;I-PER/Smith
+3006	B-PER/Matt;I-PER/Ryan;B-PER/Ryan
+3007	B-PER/Matt;I-PER/Ryan
+3008	B-PER/David;I-PER/Frost
+3009	
+3010	
+3011	B-PER/Del;I-PER/Bueno;B-PER/Del;I-PER/Bueno;B-ORG/WA
+3012	B-PER/Gok;I-PER/Wan
+3013	
+3014	B-PER/Julian;I-PER/Fantino
+3015	B-PER/Albert;I-PER/Einstein
+3016	B-PER/Clint;I-PER/Boon
+3017	B-PER/Duke;I-PER/Ellington
+3018	B-PER/Leonard;I-PER/Cohen
+3019	B-PER/Napoleon;I-PER/Hill
+3020	B-PER/Ralph;I-PER/Waldo;I-PER/Emerson
+3021	B-PER/Erma;I-PER/Bombeck
+3022	B-PER/Thomas;I-PER/Dewar
+3023	B-PER/Bruce;I-PER/Lee
+3024	B-PER/Maxwell;I-PER/Maltz
+3025	B-PER/Amelia;I-PER/Earhart
+3026	B-PER/Napoleon;I-PER/Hill
+3027	B-PER/Edward;I-PER/Abbey
+3028	B-PER/Ralph;I-PER/Waldo;I-PER/Emerson
+3029	B-PER/Leo;I-PER/Tolstoy
+3030	B-PER/Voltaire
+3031	B-PER/Jack;I-PER/London
+3032	B-PER/Yogi;I-PER/Berra
+3033	B-PER/Henry;I-PER/Ford
+3034	B-PER/Jim;I-PER/Rohn
+3035	B-PER/CitizenLink;I-PER/Report
+3036	B-PER/Michael;I-PER/Jackson
+3037	B-PER/Vera;I-PER/Bradley
+3038	B-ORG/jets
+3039	
+3040	B-LOC/Chicago;B-MISC/superbowl
+3041	B-PER/Mariah;I-PER/Carey
+3042	B-MISC/The;I-MISC/Fame;I-MISC/Monster
+3043	B-PER/Lady;I-PER/Gaga's;B-PER/Elton;I-PER/John
+3044	B-PER/Justin;I-PER/Bieber's
+3045	B-PER/Jay-Z's
+3046	B-PER/Jim;I-PER/Royle
+3047	B-PER/Albert;I-PER/Einstein
+3048	
+3049	B-PER/Mark;I-PER/Healy's
+3050	B-PER/Natalie;I-PER/Holloway's
+3051	B-PER/Boehner;I-PER/Files;B-PER/ObamaCare;I-PER/Law
+3052	B-PER/Michael;I-PER/Brea
+3053	B-PER/Brian;I-PER/A;I-PER/.;I-PER/Terry
+3054	B-PER/Mitch;I-PER/McConnell
+3055	B-PER/Paul;I-PER/McCartney;B-ORG/the;I-ORG/Beatles;B-PER/Ringo
+3056	
+3057	B-PER/Lina;I-PER/Younes
+3058	
+3059	
+3060	B-PER/Todd;I-PER/Collins
+3061	B-PER/Brian;I-PER/Cox
+3062	B-PER/Van;I-PER/Gogh's
+3063	B-PER/Van;I-PER/Gogh's
+3064	
+3065	
+3066	B-PER/Christ's
+3067	B-PER/Tim;I-PER/Minear;B-ORG/twitter
+3068	B-PER/Chris;I-PER/Brown
+3069	B-PER/Ozzy;I-PER/Osbourne;B-PER/Justin;I-PER/Bieber
+3070	B-PER/Clive;I-PER/Owen;B-PER/Tod's
+3071	B-PER/Keyshia;I-PER/Cole
+3072	
+3073	B-PER/Jacob
+3074	B-PER/David;I-PER/Shuster;B-ORG/MSNBC
+3075	B-PER/Nora;I-PER/Ephron's
+3076	
+3077	
+3078	B-PER/Golden;I-PER/Globe;B-PER/Jake;I-PER/Gyllenhaal
+3079	B-PER/Ginger;I-PER/Liqueur
+3080	
+3081	B-PER/Jim;I-PER/Rohn
+3082	B-PER/Michael;I-PER/Jordan
+3083	B-PER/Young;B-PER/Frank;I-PER/Laws
+3084	B-PER/Reid
+3085	B-PER/Gary
+3086	B-PER/Darren;I-PER/Aronofsky's
+3087	
+3088	B-PER/Jennifer;I-PER/Lopez
+3089	B-PER/Wayne;I-PER/kissin
+3090	
+3091	B-PER/Justin;I-PER/Bieber
+3092	B-PER/Greg;I-PER/Oden
+3093	B-PER/Kevin;I-PER/Spacey
+3094	
+3095	
+3096	B-PER/Larry;I-PER/King
+3097	
+3098	
+3099	B-LOC/Dallas;B-PER/Willie;I-PER/Nelson
+3100	B-PER/Donald;I-PER/Trump;B-LOC/America
+3101	B-ORG/GOP
+3102	B-PER/Cam;I-PER/Newton;B-ORG/AUBURNN
+3103	
+3104	B-PER/Katharine;I-PER/Hepbur
+3105	B-PER/Maxwell's;B-PER/Jonathan;I-PER/Franzen
+3106	
+3107	B-PER/Julian;I-PER/Fantino
+3108	B-PER/Julian;I-PER/Fantino;B-PER/Justin;I-PER/Trudeau
+3109	B-PER/Julian;I-PER/Fantino
+3110	B-PER/Springsteen/Neil;I-PER/Young
+3111	
+3112	
+3113	B-PER/Eminem
+3114	B-PER/Alan;I-PER/Carr
+3115	B-PER/Angus;I-PER/Reid;B-PER/Marc
+3116	
+3117	B-PER/Chris;I-PER/Christie
+3118	B-PER/David;I-PER/Cameron
+3119	B-LOC/Bristol;I-LOC/Palin;B-ORG/Tea;I-ORG/Party
+3120	B-PER/Willie;I-PER/Nelson
+3121	B-PER/Bob;I-PER/Saget
+3122	
+3123	B-PER/Daniela;I-PER/Hoeche
+3124	
+3125	B-PER/David;I-PER/Beckham;B-ORG/BBC's;B-PER/David;I-PER/Beckham
+3126	B-LOC/October
+3127	
+3128	
+3129	B-PER/Ron;I-PER/Gardenhire
+3130	B-PER/Daniel;I-PER/Boulud;B-PER/Daniel
+3131	B-PER/Sarah;I-PER/Palin;B-PER/Sarah;I-PER/Palin
+3132	B-PER/Ronan;I-PER/Keating
+3133	B-PER/Molly
+3134	B-PER/Elmer;I-PER/Fudd
+3135	B-PER/Mr.;I-PER/Koppel;B-PER/Fox;I-PER/News
+3136	B-PER/Eve;I-PER/Eve
+3137	
+3138	B-PER/KATE;I-PER/LAWLER
+3139	B-PER/Thomas;I-PER/Edison
+3140	B-PER/Abraham;I-PER/Lincoln;B-PER/Henry;I-PER/Ford;B-LOC/Lincoln
+3141	B-PER/Abraham;I-PER/Lincoln;B-PER/Henry;I-PER/Ford;B-LOC/Lincoln
+3142	B-PER/Elizabeth;I-PER/Edwards
+3143	
+3144	B-PER/Jack;I-PER/Russell;B-LOC/Garn;I-LOC/Gelli
+3145	B-PER/enrique;I-PER/iglesias
+3146	B-PER/Tony;I-PER/Parker
+3147	B-PER/John;I-PER/Lennon
+3148	
+3149	
+3150	
+3151	B-PER/Ashley;I-PER/Banks
+3152	B-PER/Elizabeth;I-PER/Edwards
+3153	B-PER/Kylie;I-PER/Team
+3154	B-PER/Ken;I-PER/Bruce;I-PER/BBC;I-PER/Radio2
+3155	B-PER/Oprah;B-PER/Michael;I-PER/Yackson;B-LOC/Neberland
+3156	
+3157	B-PER/Lady;I-PER/Gaga
+3158	B-PER/Brook;I-PER/Lynne;B-PER/Kardashian;I-PER/Konfide
+3159	
+3160	B-PER/Charlie;I-PER/Gibson
+3161	B-PER/Gordon;I-PER/Feller
+3162	
+3163	
+3164	B-PER/Jager
+3165	B-PER/Noel;I-PER/Gallagher
+3166	B-PER/Don;I-PER/Cherry
+3167	B-PER/Brett;I-PER/Farve
+3168	B-PER/Carl;I-PER/Zimmer's
+3169	
+3170	B-PER/Aaron;I-PER/Eckhart's
+3171	B-PER/John;I-PER/Lewis
+3172	B-PER/Amy;I-PER/Winehouse
+3173	
+3174	B-PER/Hugh;I-PER/Hefner
+3175	B-PER/Lori;I-PER/Moreno
+3176	
+3177	B-PER/Charles;I-PER/Dickens
+3178	B-PER/Soren;I-PER/Kierkegaard
+3179	
+3180	
+3181	B-PER/Vick
+3182	B-PER/Olivia;I-PER/Wilde
+3183	
+3184	
+3185	
+3186	B-LOC/Nashville;B-PER/Carson;B-PER/Palmer
+3187	B-PER/Don;I-PER/Cherry
+3188	
+3189	
+3190	
+3191	
+3192	B-PER/Elizabeth;I-PER/Edwards
+3193	
+3194	B-PER/Michael;I-PER/Lohan's
+3195	B-PER/Caleb;I-PER/Haine
+3196	
+3197	B-PER/Justin;I-PER/Beiber
+3198	B-PER/Katy;I-PER/Perry
+3199	B-PER/Juan;I-PER/Williams
+3200	
+3201	B-PER/Michael;I-PER/Ricketts
+3202	B-PER/Shaun;I-PER/Ryder's;B-PER/Shaun;I-PER/Ryder
+3203	
+3204	B-PER/Maxine;I-PER/Waters
+3205	B-PER/Teena;I-PER/Marie;B-PER/Teena
+3206	B-PER/Merle;I-PER/Haggard;B-PER/Christ
+3207	B-PER/Kim;B-PER/Nicki;B-PER/Nicki;B-PER/Kim
+3208	B-PER/YANN;I-PER/TIERSEN
+3209	B-PER/Clive;I-PER/Owen's;B-ORG/Facebook
+3210	B-PER/Jim;I-PER/Schwartz's;B-PER/Shaun;I-PER/Hill
+3211	
+3212	
+3213	B-PER/Cher;B-PER/Kanye;I-PER/West
+3214	B-PER/Ozzy;I-PER/Osbourne
+3215	
+3216	B-ORG/the;I-ORG/Jets;B-PER/Brad;I-PER/Smith
+3217	B-PER/Brett;I-PER/Farve
+3218	B-PER/Adalynn;I-PER/Rose;B-PER/Noah;I-PER/James
+3219	B-PER/Elton;I-PER/John
+3220	B-PER/Elton;I-PER/John
+3221	
+3222	
+3223	B-PER/Jermaine;I-PER/Dupri
+3224	B-PER/Matt;I-PER/Cardle's;B-PER/Matt;I-PER/Cardle
+3225	B-PER/Barbara;I-PER/Walters
+3226	
+3227	B-PER/Kathleen;I-PER/Hanna;B-MISC/The;I-MISC/Raincoats
+3228	
+3229	B-PER/bola;I-PER/papa
+3230	B-PER/Heidi;I-PER/Klum
+3231	B-ORG/Blazers;I-ORG/C;I-ORG/Oden;B-ORG/AP;B-PER/Greg;I-PER/Oden
+3232	
+3233	
+3234	B-PER/Pope;I-PER/Benedict
+3235	B-LOC/Texas;B-MISC/The;I-MISC/Urlacher;I-MISC/and;I-MISC/Peppers
+3236	B-PER/David;I-PER/Cameron
+3237	B-LOC/Rhode;I-LOC/Island
+3238	B-PER/Don;I-PER/Cherry
+3239	B-PER/Ryan;I-PER/Seacrest's
+3240	B-PER/Oprah
+3241	
+3242	B-PER/Carl;I-PER/Sagan
+3243	B-PER/Sloane;I-PER/Crosley
+3244	
+3245	B-PER/C;I-PER/Wood;B-MISC/superbowl
+3246	B-MISC/European;I-MISC/Arrest;I-MISC/Warrant;B-PER/Julian;I-PER/Assange
+3247	B-PER/Rachel;I-PER/Brice
+3248	B-PER/brett;I-PER/favre
+3249	B-PER/Matt;I-PER/Cardle;B-PER/Biffy;I-PER/Clyro
+3250	B-PER/Rosa;I-PER/Parks
+3251	
+3252	B-PER/Hugh;I-PER/Hefner
+3253	B-PER/Willow;I-PER/Smith's
+3254	B-ORG/Wikileaks;B-PER/Billy;I-PER/Joel;I-MISC/Didn
+3255	B-PER/Roddy;I-PER/White;B-PER/Roddy;I-PER/Roddy
+3256	B-PER/LaDainian;I-PER/Tomlinson
+3257	
+3258	B-LOC/New;I-LOC/York
+3259	B-LOC/Nicaragua
+3260	
+3261	
+3262	B-ORG/Twitter
+3263	B-PER/Pacquiao
+3264	B-PER/Suu;I-PER/Kyi
+3265	B-PER/Suu;I-PER/Kyi
+3266	
+3267	B-ORG/Cigarette;I-ORG/Giants
+3268	
+3269	B-ORG/Democrats;I-ORG/Reach;B-ORG/House;I-ORG/Leadership
+3270	
+3271	
+3272	
+3273	B-MISC/Western;I-MISC/Pa
+3274	
+3275	
+3276	B-LOC/U.S.
+3277	
+3278	
+3279	
+3280	
+3281	
+3282	B-LOC/Alaska;I-LOC/Votes
+3283	
+3284	
+3285	
+3286	
+3287	
+3288	
+3289	B-LOC/U.S.
+3290	B-PER/Obama
+3291	B-PER/Obama
+3292	B-PER/Rachel;I-PER/Mummey
+3293	
+3294	B-LOC/U.S.
+3295	B-LOC/California
+3296	B-PER/Suu;I-PER/Kyi
+3297	
+3298	B-LOC/New;I-LOC/York;I-LOC/Apartment
+3299	B-LOC/San;I-LOC/Francisco
+3300	
+3301	
+3302	
+3303	
+3304	
+3305	
+3306	
+3307	
+3308	
+3309	
+3310	
+3311	B-ORG/Diner's;I-ORG/Journal
+3312	
+3313	
+3314	
+3315	B-ORG/Cigarette;I-ORG/Giants
+3316	
+3317	B-LOC/Indonesia
+3318	
+3319	
+3320	
+3321	
+3322	B-PER/Obama
+3323	B-PER/Rachel;I-PER/Mummey
+3324	
+3325	B-ORG/Democrats;I-ORG/Reach;B-ORG/House;I-ORG/Leadership
+3326	B-LOC/U.S.
+3327	B-PER/Palin;B-PER/Barbara;I-PER/Walters;B-PER/Obama
+3328	
+3329	
+3330	
+3331	
+3332	
+3333	
+3334	
+3335	
+3336	
+3337	
+3338	
+3339	B-PER/Kanye;I-PER/West
+3340	B-MISC/Real;I-MISC/Estate;I-MISC/Mogul
+3341	B-LOC/Nicaragua
+3342	B-PER/Berlusconi;I-PER/Days
+3343	
+3344	B-LOC/Haiti
+3345	B-LOC/Indonesia
+3346	
+3347	B-LOC/U.S.
+3348	B-PER/Cody;I-PER/Linley;B-PER/Selena;I-PER/Gomez
+3349	B-PER/Todd;I-PER/Bridges;B-PER/Todd;I-PER/Collins
+3350	
+3351	B-PER/ROBBIE;I-PER/KEANE
+3352	B-ORG/ITV1;B-MISC/Alan;I-MISC/Titchmarsh;I-MISC/show
+3353	B-PER/Teena;I-PER/Marie
+3354	B-PER/Dr.;I-PER/Seuss
+3355	B-PER/Bill;I-PER/Murray
+3356	B-PER/Burt;I-PER/Reynolds;B-PER/Han;I-PER/Solo
+3357	
+3358	B-PER/Milka;I-PER/Marwa
+3359	B-PER/Sara;I-PER/Cox;B-PER/Sara
+3360	B-PER/Scott;I-PER/Mills;B-PER/Scott
+3361	B-PER/Scott;I-PER/Mills;B-PER/Scott
+3362	B-PER/Scott;I-PER/Mills;B-PER/Scott
+3363	B-PER/Scott;I-PER/Mills;B-PER/Scott
+3364	B-PER/Scott;I-PER/Mills;B-PER/Scott
+3365	B-PER/Scott;I-PER/Mills;B-PER/Scott
+3366	B-PER/Scott;I-PER/Mills;B-PER/Scott;B-PER/Miranda
+3367	B-PER/Jeremy;I-PER/Vine;B-PER/Jeremy;I-PER/Vine
+3368	B-PER/Jeremy;I-PER/Vine;B-PER/Jeremy;I-PER/Vine
+3369	B-PER/Jeremy;I-PER/Vine;B-PER/Jeremy;I-PER/Vine
+3370	B-PER/Paul;I-PER/O'Grady:;B-PER/Elsie;B-PER/Olga;B-PER/Paul's
+3371	B-PER/Simon;I-PER/Mayo;B-PER/Simon
+3372	B-PER/Jarvis;I-PER/Cocker's;B-PER/Jarvis;B-PER/David;I-PER/Cunningham
+3373	B-PER/Jarvis;I-PER/Cocker's;B-PER/Peter;I-PER/Blake;B-PER/Jarvis
+3374	B-PER/Steve;I-PER/Lamacq;B-PER/Steve
+3375	B-PER/Steve;I-PER/Lamacq;B-PER/Steve
+3376	B-PER/Steve;I-PER/Lamacq;B-PER/Steve
+3377	B-PER/Marc;I-PER/Riley;B-PER/Marc
+3378	B-PER/L;I-PER/.;I-PER/Jones
+3379	B-PER/Morgan;I-PER/Freeman
+3380	
+3381	
+3382	B-PER/Julian;I-PER/Fantino
+3383	B-PER/Julian;I-PER/Fantino
+3384	B-PER/Julian;I-PER/Fantino
+3385	B-PER/Wendy;I-PER/Williams
+3386	
+3387	B-PER/Brooke
+3388	B-PER/Bin;I-PER/Laden
+3389	B-PER/Darren;B-PER/GODDAUGTER;I-PER/OLIVE
+3390	B-PER/Hannah;I-PER/Arendt
+3391	B-PER/Bruce;I-PER/Lee
+3392	B-PER/Paul;I-PER/V;I-PER/Harris
+3393	B-PER/Paul;I-PER/V;I-PER/Harris
+3394	B-PER/Paul;I-PER/V;I-PER/Harris
+3395	
+3396	B-PER/Owen;I-PER/Wilson
+3397	B-PER/Benny;I-PER/Benassi
+3398	
+3399	B-PER/Dale;I-PER/Carnegie
+3400	B-PER/Mike;I-PER/Tyson
+3401	B-PER/Julian;I-PER/Fantino
+3402	B-PER/James
+3403	B-PER/Keri;I-PER/Hilson's;B-LOC/Negroidian
+3404	
+3405	B-PER/Hitler
+3406	B-PER/Hillary;I-PER/Clinton
+3407	B-PER/Julian;I-PER/Fantino
+3408	B-PER/Rob;I-PER/Ford
+3409	B-PER/Tom;I-PER/Flanagan
+3410	B-PER/Tom;I-PER/Flanagan
+3411	B-PER/Julian;I-PER/Fantino
+3412	B-PER/Jon;I-PER/Byous
+3413	
+3414	B-ORG/Wolves;B-ORG/Wolves;B-PER/Matt;I-PER/Hill
+3415	B-PER/Morgan;I-PER/Freeman
+3416	B-PER/Bill;I-PER/Polian;B-PER/Rodger;I-PER/Saffold
+3417	B-LOC/U.S.;B-PER/Manuel;I-PER/Lara;I-PER/Lopez
+3418	B-PER/Curtis;I-PER/Lofton
+3419	B-ORG/NPR;B-PER/Gayle;I-PER/Forman
+3420	B-PER/John;I-PER/Roberts
+3421	B-PER/ERMA;I-PER/BOMBECK
+3422	B-PER/Scott;I-PER/McLean;B-LOC/Thailan
+3423	B-PER/Julian;I-PER/Fantino's
+3424	B-PER/Julian;I-PER/Fantino;B-PER/Don;I-PER/Cherry
+3425	B-PER/Margarita;I-PER/Zavala
+3426	B-PER/Christ;B-PER/Peter
+3427	B-ORG/Dolphins;B-PER/Brandon;I-PER/Marshall
+3428	
+3429	B-PER/Jack;I-PER/Frost
+3430	B-PER/Jim;I-PER/Leonhard
+3431	
+3432	B-PER/Larry;I-PER/King;B-ORG/CNN
+3433	B-PER/Deion;I-PER/Branch
+3434	
+3435	B-PER/Bernard;I-PER/Hopkins;B-PER/Pacquiao
+3436	
+3437	B-PER/Willie;I-PER/Nelson
+3438	B-PER/Jay;I-PER/Bolus
+3439	B-PER/Julian;I-PER/Clary
+3440	B-PER/Leslie;I-PER/Nielsen
+3441	B-PER/Gillian;I-PER/McKeith
+3442	B-PER/Liam;I-PER/Gallagher;B-PER/Beady;I-PER/Eye
+3443	B-PER/Ricky;I-PER/Hatton;B-PER/Golden;I-PER/Boy
+3444	B-PER/Noel;I-PER/Gallagher;B-ORG/Liverpool
+3445	B-PER/Jessica;I-PER/Brady
+3446	B-PER/Natalie;I-PER/martinez
+3447	B-PER/Cam;I-PER/Newton
+3448	B-PER/Rob;I-PER/Ford's
+3449	
+3450	B-PER/Chris;I-PER/Brown
+3451	
+3452	B-PER/Auburn
+3453	
+3454	B-PER/Faith;I-PER/Evans;B-LOC/UK
+3455	B-PER/George;I-PER/Carlin
+3456	B-PER/Sydney;I-PER/Smith
+3457	B-PER/Natalie;I-PER/Portman;B-MISC/Black;I-MISC/Swan
+3458	B-PER/Chad;B-PER/Evelyn;I-PER/Lozada
+3459	B-PER/Ryan;I-PER/Seacrest
+3460	B-PER/Joel;I-PER/Stein
+3461	
+3462	B-PER/Elizabeth;I-PER/Edwards
+3463	B-PER/Adrian;I-PER/Chiles
+3464	
+3465	B-PER/Bernie;I-PER/Sanders
+3466	B-PER/Jody;I-PER/Smith
+3467	B-PER/Dino;I-PER/De;I-PER/Laurentiis
+3468	
+3469	B-PER/Julian;I-PER/Fantino
+3470	B-PER/Don;I-PER/Cherry's
+3471	B-PER/Roger;I-PER/Ebert
+3472	B-PER/Tony;I-PER/McCarroll
+3473	B-PER/Aung;I-PER/San;I-PER/Suu;I-PER/Kyi;B-LOC/Burma
+3474	
+3475	
+3476	B-PER/Ted;I-PER/Griffin
+3477	B-PER/Ayn;I-PER/Rand
+3478	B-PER/Kourtney
+3479	
+3480	B-PER/Noel;I-PER/Gallagher
+3481	B-PER/James;I-PER/Franco;B-PER/William;I-PER/Faulkner
+3482	B-PER/Mariah;I-PER/Carey;B-PER/Obama
+3483	B-PER/Mark;I-PER/Ruffalo
+3484	B-PER/Cam;I-PER/Newton
+3485	B-PER/Montana;I-PER/DeLeon
+3486	B-PER/Joanna;I-PER/Yeates
+3487	B-PER/Joanna;I-PER/Yeates;B-PER/Chris;I-PER/Jefferies
+3488	B-PER/Philip;I-PER/Hammond
+3489	B-ORG/WikiLeaks;B-PER/Julian;I-PER/Assange;B-LOC/City;I-LOC/of;I-LOC/Westminster
+3490	B-PER/Morten;I-PER/Gamst;I-PER/Pedersen
+3491	B-ORG/Arsenal;B-PER/Jack;I-PER/Wilshere
+3492	B-ORG/Aston;I-ORG/Villa;B-PER/Marc;I-PER/Albrighton
+3493	B-PER/Murray;B-PER/Andy;I-PER/Murray
+3494	B-PER/Nadal;B-PER/Murray;B-PER/Rafael;I-PER/Nadal;B-PER/Andy;I-PER/Murray;B-MISC/Barclays;I-MISC/ATP;I-MISC/World;I-MISC/Tour;I-MISC/Finals
+3495	B-ORG/Arsenal;B-PER/Jack;I-PER/Wilshere
+3496	
+3497	B-PER/Brian;I-PER/Culbertson
+3498	
+3499	B-PER/Warren;I-PER/G's;B-ORG/twitter
+3500	
+3501	B-PER/Carolina;I-PER/Wings;I-PER/Northeast
+3502	
+3503	B-PER/Albert;I-PER/Schweitzer
+3504	B-PER/HOLLY;I-PER/HOOKER
+3505	B-PER/Wendell;I-PER/Holmes
+3506	
+3507	B-PER/Leslie;I-PER/Nielsen
+3508	B-PER/Michael;I-PER/Vick
+3509	B-LOC/Austin;I-LOC/Collie
+3510	B-PER/Rod;I-PER/Hull
+3511	B-PER/Keith;I-PER/Jardine
+3512	B-PER/Peter;I-PER/Clarke;B-PER/Alzheimer's
+3513	B-PER/Grant;I-PER/Leboff
+3514	B-PER/Emily
+3515	B-PER/Bill;I-PER/Clinton's;B-PER/Bill;I-PER/Clinton
+3516	B-PER/Fabio;I-PER/Capello;B-LOC/England;B-PER/FABIO;I-PER/CAPELLO
+3517	B-PER/Roberto;I-PER/Mancini;B-PER/Carlos;I-PER/Tevez;B-PER/ROBERTO;I-PER/MANCINI
+3518	B-PER/Brian;I-PER/Kidd;B-LOC/Manchester;I-LOC/City;B-PER/BRIAN;I-PER/KIDD;B-PER/Manchester;I-PER/City's
+3519	
+3520	B-ORG/JYJ
+3521	B-PER/Gary;I-PER/Lineker
+3522	
+3523	
+3524	
+3525	
+3526	
+3527	B-PER/Judi;I-PER/Dench
+3528	B-PER/Michelle;I-PER/Obama
+3529	
+3530	B-ORG/ADF
+3531	
+3532	B-PER/Jack;I-PER/Straw
+3533	B-PER/William;I-PER/Shedd
+3534	B-PER/Stephen;I-PER/Kaggawa
+3535	B-PER/Tim;I-PER/Cahill
+3536	B-PER/enthusiasm-Winston;I-PER/Churchill
+3537	B-PER/Jay;I-PER/Cutler
+3538	
+3539	B-PER/Thomas;I-PER/Edison
+3540	B-PER/Raul;I-PER/Castro
+3541	B-ORG/Packers;B-LOC/Chicago;I-LOC/Bears
+3542	B-PER/Christina;I-PER/Aguilera
+3543	
+3544	B-PER/Philip;I-PER/Hammond
+3545	B-PER/David;I-PER/Kam
+3546	B-PER/Leo;I-PER/Buscaglia
+3547	B-PER/Miranda;I-PER/Cosgrove
+3548	B-PER/Chuck;I-PER/Norris
+3549	B-PER/Paul;I-PER/Weller;B-PER/Paul;I-PER/Weller
+3550	B-PER/Josh;I-PER/Smith
+3551	B-PER/Harrison;I-PER/Ford's;B-LOC/Indiana;I-LOC/Jones
+3552	B-PER/Albert;I-PER/Einstein
+3553	B-PER/Hector;I-PER/Angel
+3554	B-PER/Danny;I-PER/Cawley
+3555	B-PER/Robin;I-PER/Hood
+3556	
+3557	B-PER/Ingrid;I-PER/Pitt;B-PER/Ingrid;I-PER/Pitt's
+3558	B-PER/Mike;I-PER/Stout
+3559	B-PER/Lauryn;I-PER/hill;B-PER/bob;I-PER/marley
+3560	
+3561	B-PER/Noel
+3562	B-PER/Dr;I-PER/Wade
+3563	B-PER/Tiger;B-PER/Tony;I-PER/Parker
+3564	B-PER/Matt;I-PER/Barr;B-PER/Matt
+3565	B-PER/Amber;I-PER/Portwood;B-PER/Celebrity;I-PER/Justice
+3566	B-PER/Ashton;I-PER/Kutcher;B-PER/Ashton;I-PER/Kutcher;B-PER/Brittney;I-PER/Jones
+3567	B-PER/Amy;I-PER/Locane
+3568	B-PER/Hulk;I-PER/Hogan;B-PER/Celebrity;I-PER/Justice
+3569	B-PER/Julia;I-PER/Stiles;B-PER/Michael;I-PER/C;I-PER/.;I-PER/Hall's;B-PER/Julia;I-PER/Stiles
+3570	B-PER/Andrew;I-PER/Bynum
+3571	B-PER/Morgan;I-PER/Freeman;B-PER/Morgan;I-PER/Freeman;B-PER/Morgan;I-PER/Freeman's
+3572	B-PER/Shania;I-PER/Twain;I-PER/Shan
+3573	B-PER/Tommy;I-PER/Lee;B-PER/Tommy;I-PER/Lee;B-PER/Tommy;I-PER/Lee
+3574	B-PER/Justin;I-PER/Bieber
+3575	B-PER/Lady;I-PER/Gaga;B-PER/Kanye;I-PER/West
+3576	B-PER/Willie;I-PER/Nelson;B-PER/Nelson
+3577	B-ORG/TMZ;B-PER/Miley;I-PER/Cyrus
+3578	B-ORG/TMZ;B-PER/Betty;I-PER/Ford;B-PER/Lindsay;I-PER/Lohan
+3579	
+3580	B-PER/Katy;I-PER/Perry;B-PER/Russell;I-PER/Brand's
+3581	B-PER/Elroy;B-PER/Tony;I-PER/Cash
+3582	B-PER/Peter;I-PER/Guber's
+3583	B-PER/Rob;I-PER/Ford
+3584	
+3585	B-PER/Julian;I-PER/Fantino;B-PER/Justin;I-PER/Trudeau
+3586	B-PER/Andre;I-PER/Marin;B-LOC/Toronto
+3587	B-PER/Bill;I-PER/Blair
+3588	B-PER/Alastair;I-PER/Macaulay's
+3589	B-PER/Kirk;I-PER/Franklin;B-PER/kirk;I-PER/franklin
+3590	B-PER/Mrs.;I-PER/Claus
+3591	B-PER/Freddy;I-PER/Mercury
+3592	
+3593	B-PER/Richard;I-PER/Bach
+3594	B-PER/Albert;I-PER/Einstein
+3595	B-PER/Jim;I-PER/Rohn
+3596	B-PER/James;I-PER/Carville;B-PER/Clinton
+3597	
+3598	B-ORG/The;I-ORG/Bears
+3599	B-PER/Kyle;I-PER/Pezzi;B-LOC/Kyle's
+3600	B-PER/Aretha;I-PER/Franklin
+3601	
+3602	B-PER/Natalie;I-PER/Portman
+3603	B-PER/Franklin;I-PER/D;I-PER/.;I-PER/Roosevelt
+3604	B-PER/Christine;I-PER/O'Donnell;B-PER/Joe;I-PER/Biden
+3605	B-PER/Javier;I-PER/Bardem
+3606	B-PER/Willow;I-PER/Smith
+3607	
+3608	B-PER/Selma;I-PER/Hayek
+3609	B-PER/Teena;I-PER/Marie
+3610	B-PER/Jesus;I-PER/Christ
+3611	
+3612	B-PER/Nick;I-PER/Knight;B-PER/Nick;I-PER/Knight
+3613	B-PER/Ann;I-PER/Hornaday;B-MISC/National;I-MISC/Film;I-MISC/Registry
+3614	B-PER/Zsa;I-PER/Zsa;I-PER/Gabor's
+3615	B-PER/Kanye;I-PER/West;B-PER/Austin's;I-PER/Pizza
+3616	B-PER/Kurt;I-PER/Cobain
+3617	B-PER/Melody;I-PER/Biringer's
+3618	B-PER/David;I-PER/Cameron
+3619	B-PER/Charles;I-PER/Caleb;I-PER/Colton
+3620	B-PER/Chris;I-PER/Rapier
+3621	B-PER/Francois;I-PER/Marie
+3622	B-PER/William;I-PER/Shakespeare
+3623	B-PER/Huff;I-PER/Post;B-PER/George;I-PER/VI
+3624	B-PER/Golden;I-PER/Globe;B-PER/Helena;I-PER/Bonham;I-PER/Carter
+3625	B-PER/Merry;I-PER/Kissmas
+3626	B-PER/Reagan
+3627	
+3628	B-PER/Paul;I-PER/Bremer;B-PER/Sunni
+3629	B-PER/Putin
+3630	B-PER/Putin;B-PER/Berlusconi
+3631	B-PER/Greg;I-PER/Snelgrove
+3632	
+3633	
+3634	B-PER/Brett;I-PER/Favre's
+3635	B-ORG/Panera;I-ORG/Bread
+3636	B-PER/Kate;I-PER/Middleton;B-PER/Temperley;I-PER/London
+3637	
+3638	B-ORG/Wikileaks;B-PER/Julian;I-PER/Assange;B-LOC/London
+3639	
+3640	B-PER/Paul;I-PER/McCartney
+3641	B-PER/Fergie
+3642	B-PER/Demi;I-PER/Moore
+3643	B-PER/Michael;I-PER/Douglas
+3644	B-PER/Archie;I-PER/Bell
+3645	B-PER/Miles;I-PER/Austin;B-PER/Reggie;I-PER/Bush;B-MISC/Kim;I-MISC/Kardashian;I-MISC/Bowl
+3646	
+3647	B-PER/Jerry;I-PER/Seinfeld;B-PER/Caesars;I-PER/Palace
+3648	
+3649	B-PER/Diana;I-PER/Taurasi's
+3650	B-PER/Gregg;I-PER/Sussman
+3651	
+3652	
+3653	
+3654	B-ORG/the;I-ORG/Jets
+3655	
+3656	B-PER/Jeans
+3657	
+3658	
+3659	B-PER/Haine;B-PER/Haine
+3660	
+3661	
+3662	B-PER/Antoine;I-PER/Dodson;B-ORG/the;I-ORG/Jets
+3663	B-PER/Russell;I-PER/Crowe
+3664	B-PER/Ruth;I-PER/Buzzi;B-ORG/Twitter
+3665	B-PER/Ryan;I-PER/Leslie
+3666	B-PER/Ryan;I-PER/Reynolds
+3667	B-PER/Ryan;I-PER/Reynolds
+3668	B-PER/Ryan;I-PER/Reyonolds
+3669	
+3670	B-PER/Tom;I-PER/Cruise;B-PER/Russel;I-PER/Crowe
+3671	B-PER/Sam;B-PER/Greg;I-PER/Olsen
+3672	B-PER/Sam;I-PER/Worthington
+3673	
+3674	B-PER/Sampson
+3675	B-PER/Samuel;I-PER/L;I-PER/.;I-PER/Jackson
+3676	B-PER/Sanchez;B-PER/Matt;I-PER/Fisher
+3677	B-PER/Santonio;I-PER/Holmes
+3678	B-PER/Sarah;I-PER/Palin
+3679	B-PER/Sarah;I-PER/Vaughan
+3680	B-LOC/Cork
+3681	B-PER/Cathy;B-LOC/Portugal
+3682	
+3683	B-LOC/England;B-PER/Wallace
+3684	B-PER/Hannah;I-PER/Montana;B-PER/Drama;I-PER/Free;I-PER/Shampoo
+3685	B-PER/Jim;I-PER/Rohn
+3686	
+3687	
+3688	B-ORG/Qantas
+3689	B-ORG/the;I-ORG/Beatles
+3690	
+3691	B-LOC/UN
+3692	
+3693	B-PER/Sergey;I-PER/Poberezhny
+3694	B-PER/George;I-PER/Halas
+3695	B-PER/David;I-PER/Allen
+3696	
+3697	B-PER/Big;I-PER/Guy;B-PER/Little;I-PER/Guy;I-PER/Tees
+3698	
+3699	B-PER/Shane;I-PER/Warne;B-LOC/Nine
+3700	
+3701	
+3702	B-PER/Shaun;I-PER/Ryder
+3703	
+3704	
+3705	B-PER/Jeff;I-PER/Lewis;B-PER/Dr.
+3706	
+3707	B-ORG/bears
+3708	B-PER/Kevin;I-PER/hart
+3709	B-PER/Shogun;I-PER/Bros
+3710	B-PER/Greg;I-PER/Inglis;B-ORG/AFL
+3711	B-PER/noel;I-PER/davis;B-PER/liam;I-PER/davis
+3712	
+3713	B-PER/Lois
+3714	
+3715	B-LOC/LONDON
+3716	B-LOC/Chicagoland
+3717	
+3718	B-PER/Bo;I-PER/Diddley
+3719	B-PER/Jimmy;I-PER/Bo;I-PER/Horne
+3720	B-PER/Anne;I-PER/Boleyn
+3721	B-PER/Simon;I-PER/Cowell;B-PER/Oprah;B-LOC/US
+3722	
+3723	B-PER/Kait;B-PER/Allison;B-PER/Rob
+3724	
+3725	
+3726	
+3727	B-PER/Roddy;I-PER/White
+3728	
+3729	
+3730	
+3731	
+3732	
+3733	
+3734	B-PER/Allison;I-PER/Dubois
+3735	B-PER/Matt;I-PER/Ryan
+3736	B-PER/Willow;I-PER/Smith
+3737	B-PER/tyler;I-PER/perry
+3738	
+3739	
+3740	
+3741	B-PER/Social;I-PER/Media
+3742	B-PER/Jefferson;B-PER/Sally;I-PER/Hemings;B-LOC/Paris
+3743	B-LOC/Australia;I-LOC/Day
+3744	B-PER/Brendan;I-PER/Rae
+3745	
+3746	B-ORG/Cutlers;B-MISC/Wizard;I-MISC/Of;I-MISC/Oz
+3747	B-PER/Randy;I-PER/Moss;B-ORG/Falcons
+3748	B-PER/Kim;I-PER/Jong;I-PER/Un
+3749	
+3750	
+3751	B-PER/Michael;I-PER/D;I-PER/.;I-PER/Lemonick
+3752	B-PER/Lewis;I-PER/Carroll
+3753	B-PER/Elizabeth;I-PER/Gilbert
+3754	B-PER/Jake;I-PER/Plummer
+3755	B-PER/Nicolette;I-PER/Larson
+3756	B-PER/Stevie;I-PER/Wonder
+3757	B-PER/Carly;I-PER/Simon
+3758	B-PER/Bob;I-PER/James
+3759	B-PER/Curtis;I-PER/Mayfield
+3760	B-PER/KNIGHT;I-PER/TRACK
+3761	B-PER/Felix
+3762	B-ORG/Chuck;I-ORG/Brown;I-ORG/&;I-ORG/The;I-ORG/Soul;I-ORG/Searchers
+3763	
+3764	B-PER/Lupe;I-PER/Fiasco
+3765	
+3766	
+3767	B-PER/Michael;I-PER/Jackson;B-PER/Tupac
+3768	
+3769	B-PER/Nicki;I-PER/Minaj
+3770	B-PER/Larry;I-PER/King
+3771	B-PER/CALVIN;I-PER/HARRIS
+3772	B-PER/chris;I-PER/martin;B-PER/elton;I-PER/john
+3773	
+3774	
+3775	B-LOC/Spain
+3776	B-PER/Abe;I-PER/Lincoln
+3777	B-PER/Buffy
+3778	
+3779	
+3780	B-ORG/YouTube
+3781	B-PER/Tom;I-PER/Brady;B-ORG/MVP
+3782	B-ORG/Google;B-ORG/MySpace;B-ORG/Twitter;B-ORG/Groupons
+3783	B-PER/Obama;B-ORG/Reuters
+3784	
+3785	B-ORG/Steelers
+3786	
+3787	B-PER/Steve;I-PER/Clemons;B-PER/Chalmers;I-PER/Johnson
+3788	B-PER/Steve;I-PER/Perry
+3789	B-PER/Steve;I-PER/Wilkos
+3790	
+3791	
+3792	
+3793	
+3794	
+3795	B-PER/Jim;I-PER/Rohn
+3796	B-PER/Jim;I-PER/Rohn
+3797	B-PER/Winston;I-PER/Churchill
+3798	B-PER/Jim;I-PER/Rohn
+3799	B-PER/Tony;I-PER/Robbins
+3800	
+3801	B-PER/Sufjan;I-PER/Stevens;B-PER/Sufjan;I-PER/Stevens
+3802	
+3803	
+3804	
+3805	B-PER/Surgeon;I-PER/General;B-LOC/Action
+3806	B-PER/Norm;I-PER/Chow
+3807	B-PER/Susan;I-PER/Boyle
+3808	
+3809	B-PER/Dan;I-PER/Savage;B-ORG/CNN
+3810	B-PER/Duke;I-PER/Snider
+3811	
+3812	
+3813	B-PER/Mike;I-PER/Vick's
+3814	
+3815	B-PER/Tava;I-PER/Tea;B-ORG/Green;I-ORG/Tea
+3816	B-ORG/Apple
+3817	B-ORG/TD;I-ORG/Bears;B-ORG/NFL
+3818	
+3819	
+3820	B-PER/Teena;I-PER/Marie
+3821	B-PER/Teena;I-PER/Marie
+3822	
+3823	
+3824	B-PER/JESUS
+3825	
+3826	
+3827	B-PER/Dr;I-PER/Gratton
+3828	B-PER/Hue;I-PER/Daily
+3829	B-PER/Reggie;I-PER/Bush;B-PER/Reggie
+3830	I-PER/Albert
+3831	
+3832	B-ORG/AT&T
+3833	B-PER/Marvin;I-PER/Gaye
+3834	
+3835	
+3836	B-PER/Todd;I-PER/Collins;B-PER/Caleb;I-PER/Hanie
+3837	B-PER/Bruno;I-PER/Jupiter
+3838	
+3839	B-PER/Devin;I-PER/Hester
+3840	B-ORG/Bears;B-ORG/Green;I-ORG/Bay;I-ORG/Packers
+3841	B-ORG/Bears;B-LOC/Chicago
+3842	B-PER/Gucci;I-PER/Mane
+3843	
+3844	B-PER/Nelly
+3845	
+3846	
+3847	
+3848	B-PER/Alan;I-PER/Shawn;I-PER/Feinstein
+3849	B-PER/Keith;I-PER/Olbermann
+3850	B-PER/Kirstin
+3851	
+3852	B-ORG/The;I-ORG/Bears;B-MISC/Super;I-MISC/bowl
+3853	B-LOC/US
+3854	B-PER/Alan;I-PER/Kay
+3855	B-PER/Napoleon;I-PER/Hill
+3856	
+3857	B-PER/Mary;I-PER/Norton
+3858	
+3859	B-PER/Mandela
+3860	
+3861	B-PER/Tan;I-PER/Sri;I-PER/Sidek;I-PER/Hassan
+3862	B-ORG/The;I-ORG/Secret;I-ORG/Keys
+3863	B-PER/George;I-PER/Soros
+3864	
+3865	B-MISC/Da;I-MISC/Vinci
+3866	
+3867	
+3868	
+3869	B-PER/Mariama;I-PER/Ba
+3870	
+3871	
+3872	B-LOC/Glasgow;B-PER/Billy;I-PER/Connolly
+3873	
+3874	B-PER/Albert;I-PER/Camus
+3875	
+3876	
+3877	
+3878	
+3879	B-LOC/Jackson
+3880	B-ORG/Jets;I-ORG/and;I-ORG/Bears;B-MISC/Super;I-MISC/Bowl;B-ORG/the;I-ORG/Jets;B-MISC/Super;I-MISC/Bowl
+3881	B-ORG/The;I-ORG/Jets
+3882	B-PER/Stephen;I-PER/Covey
+3883	B-ORG/The;I-ORG/Killers
+3884	
+3885	
+3886	B-PER/Austin;I-PER/Allegro
+3887	B-PER/Napoleon;I-PER/Hill
+3888	B-PER/Napoleon;I-PER/Hill
+3889	B-PER/Robert;I-PER/Bloch
+3890	
+3891	B-PER/Leonard;I-PER/Nimoy
+3892	
+3893	B-PER/Henry;I-PER/Boye
+3894	
+3895	
+3896	B-PER/Joey;I-PER/Greco
+3897	B-ORG/The;I-ORG/Office;B-PER/Michael;I-PER/Scott
+3898	B-PER/Mark;I-PER/Twain
+3899	
+3900	
+3901	B-PER/Amy;I-PER/Casey;B-PER/Amy;I-PER/Casey
+3902	
+3903	
+3904	B-PER/Albert;I-PER/Einstein
+3905	B-PER/John;I-PER/Cusack
+3906	B-PER/Julian;I-PER/Assange
+3907	
+3908	B-PER/Brenda;I-PER/Russell
+3909	B-PER/Paul;I-PER/Young
+3910	
+3911	B-PER/STEELER;I-PER/NATION;B-LOC/Buffalo;I-LOC/Wild;I-LOC/Wings
+3912	B-PER/Catcher;I-PER/Freeman
+3913	
+3914	
+3915	B-PER/Wayne;I-PER/Clough
+3916	B-PER/Cecil;I-PER/Holmes
+3917	
+3918	B-PER/Napoleon;I-PER/Hill
+3919	B-PER/Napoleon;I-PER/Hill
+3920	
+3921	
+3922	B-PER/James;I-PER/Bryce
+3923	
+3924	
+3925	
+3926	B-PER/Andrew;I-PER/Carnegie
+3927	B-PER/Thomas;I-PER/Reid
+3928	B-PER/Christ
+3929	B-PER/Simon;I-PER/Cowell
+3930	B-ORG/Pittsburgh;B-PER/Wiz;I-PER/Khalifa
+3931	
+3932	
+3933	B-ORG/AT&T
+3934	
+3935	B-LOC/Khartoum;B-LOC/London;I-LOC/Gatwick;B-LOC/Cairo;B-LOC/Athens;B-LOC/Rome
+3936	B-PER/Aleksei;I-PER/Fedorchenko's;B-PER/Aktan;I-PER/Kubat
+3937	
+3938	
+3939	
+3940	
+3941	
+3942	B-LOC/Victoria
+3943	B-PER/Andrew;I-PER/Carnegie
+3944	B-LOC/York
+3945	
+3946	B-PER/Lucy;I-PER/Liu
+3947	B-MISC/Super;I-MISC/Bowl
+3948	
+3949	B-LOC/Nevada
+3950	
+3951	
+3952	
+3953	B-PER/Gordon;I-PER/Lightfoot;B-PER/Columbus;I-PER/Georgia
+3954	B-PER/Caleb;I-PER/Hanie's;B-PER/Tom;I-PER/Brady-Drew;I-PER/Bledsoe
+3955	
+3956	
+3957	
+3958	
+3959	B-ORG/YouTube
+3960	
+3961	
+3962	
+3963	
+3964	
+3965	
+3966	
+3967	B-PER/Elliot;I-PER/Smith
+3968	
+3969	
+3970	
+3971	B-PER/Groucho;I-PER/Marx
+3972	B-PER/Liberty;B-PER/Liberty;B-PER/Benjamin;I-PER/Franklin
+3973	B-PER/Victor;I-PER/Hugo
+3974	
+3975	B-LOC/Berlin
+3976	
+3977	B-PER/Tia;I-PER/Ludovina
+3978	
+3979	B-PER/Tim;I-PER/Mastay;B-ORG/Green;I-ORG/Bay;I-ORG/Packers
+3980	B-PER/Henry;I-PER/Ford
+3981	
+3982	
+3983	
+3984	
+3985	
+3986	
+3987	
+3988	
+3989	B-PER/Thomas;I-PER/Edison
+3990	B-PER/Karen;I-PER/Sunde
+3991	B-PER/Pat;I-PER/Bradley;B-MISC/LPGA;I-MISC/HealthSouth;I-MISC/Inaugural;I-MISC/Golf;I-MISC/Tournament
+3992	B-PER/David;I-PER/Nicholas;B-LOC/Haarlem
+3993	
+3994	B-PER/Todd;I-PER/Collins
+3995	B-PER/Todd;I-PER/Collins;B-ORG/Bears;B-ORG/Packers
+3996	B-PER/Michael;I-PER/Jackson
+3997	B-PER/Tom;I-PER/Willis
+3998	B-PER/Toni;I-PER/Braxton
+3999	B-PER/GONZALEZ;I-PER/BABAAAAYYYYY
+4000	
+4001	B-PER/Tory;I-PER/Burch;B-PER/Consignment;I-PER/Chic's
+4002	B-LOC/AMD;I-LOC/Ontario;B-LOC/US
+4003	
+4004	B-PER/RODDY;I-PER/WHITE
+4005	
+4006	B-PER/Russell;I-PER/Crowe's
+4007	B-PER/Antoine;I-PER/De
+4008	B-PER/JENNIFER;I-PER/GREY
+4009	
+4010	B-PER/Boots;B-PER/Dora
+4011	
+4012	B-PER/Brandon;I-PER/Flowers
+4013	
+4014	B-PER/Brad;B-PER/Ryan;I-PER/Nelson
+4015	
+4016	B-PER/Gordon;B-PER/Gordon;I-PER/Ramsay
+4017	B-LOC/Berlin
+4018	
+4019	
+4020	
+4021	
+4022	
+4023	B-PER/Kathy;I-PER/Ann
+4024	B-PER/Harrison;I-PER/Ford;B-PER/Indy
+4025	
+4026	
+4027	
+4028	B-PER/Rihanna
+4029	B-PER/Pierre;I-PER/Thomas
+4030	
+4031	B-PER/Umm;I-PER/Ron;I-PER/Isleys
+4032	
+4033	B-LOC/Demo
+4034	
+4035	
+4036	B-LOC/Philippines;B-PER/Asia
+4037	
+4038	B-LOC/US;B-PER/Franz;I-PER/Gayl
+4039	B-MISC/V;I-MISC/for;I-MISC/Vendetta
+4040	
+4041	B-ORG/Aston;I-ORG/Martin
+4042	
+4043	
+4044	
+4045	B-PER/Elizabeth;I-PER/Edwards
+4046	I-MISC/Obama
+4047	B-PER/Jennifer;I-PER/Love;I-PER/Hewitt;B-PER/Golden;I-PER/Globe
+4048	B-PER/Chuck;I-PER/Berry's
+4049	B-PER/Abigail;I-PER/Washburn
+4050	B-PER/David;I-PER/Sedaris
+4051	B-PER/Hillary;I-PER/Clinton
+4052	B-PER/Oprah
+4053	B-ORG/Yankees;B-PER/Derek;I-PER/Jeter
+4054	
+4055	
+4056	
+4057	
+4058	
+4059	B-PER/Travis;I-PER/Porter
+4060	
+4061	B-PER/Vida;B-PER/Lady;I-PER/Gaga
+4062	B-PER/Chris;I-PER/Brown
+4063	
+4064	B-LOC/columbus
+4065	B-PER/Paulo;I-PER/Coelho
+4066	B-PER/Walter;I-PER/Bishop
+4067	B-PER/Instant;I-PER/PayPal;I-PER/Commission
+4068	
+4069	B-ORG/twitter
+4070	
+4071	
+4072	B-PER/Joe;I-PER/Scarborough
+4073	B-PER/Leroy;I-PER/Connor
+4074	B-PER/Alan;I-PER/Grayson
+4075	
+4076	
+4077	B-ORG/UFC;B-ORG/UFC
+4078	B-PER/Arnold;I-PER/Schwarzenegger
+4079	B-MISC/The;I-MISC/Social;I-MISC/Network
+4080	B-PER/Matt;I-PER/Damon's
+4081	B-ORG/HBO
+4082	B-PER/Al;I-PER/Green's
+4083	B-PER/Jerry;I-PER/Lawson;B-MISC/The;I-MISC/Talk;I-MISC/of;I-MISC/the;I-MISC/Town
+4084	B-PER/Dawn;I-PER/Holland
+4085	B-PER/Charlie;I-PER/Rangel
+4086	B-PER/Christine;I-PER/O'Donnell
+4087	B-PER/Clinton's;I-PER/big;I-PER/Obama
+4088	B-PER/Dr.;I-PER/Doom
+4089	B-PER/Glenn;I-PER/Beck
+4090	B-PER/Haley;I-PER/Barbour
+4091	B-PER/Jon;I-PER/Stewart
+4092	B-PER/Jon;I-PER/Stewart's
+4093	B-PER/Rachel;I-PER/Maddow
+4094	B-PER/Pat;I-PER/Robertson
+4095	B-PER/Ann;I-PER/Coulter
+4096	B-PER/Bernie;I-PER/Sanders
+4097	B-PER/Larry;I-PER/David
+4098	B-PER/Melissa;I-PER/Joan;I-PER/Hart
+4099	B-PER/Judy;I-PER/Garland;B-PER/James;I-PER/Mason
+4100	B-PER/Gwyneth;I-PER/Paltrow;B-ORG/Apple
+4101	B-LOC/Kansas;B-LOC/Texas
+4102	B-PER/Hitler;B-LOC/Aryan
+4103	
+4104	B-PER/Dale;I-PER/Carnegie
+4105	B-PER/Luciano;I-PER/de;I-PER/Crescenzo
+4106	B-PER/Chuck;I-PER/Brodsky
+4107	B-PER/Eric;I-PER/Hoffer
+4108	B-PER/James;I-PER/Ball
+4109	
+4110	B-PER/Mandela
+4111	B-PER/Allan;I-PER/Pavillion
+4112	B-PER/Kris;I-PER/Daniels
+4113	B-MISC/Super;I-MISC/Bowl
+4114	B-PER/Bush
+4115	B-PER/Josh;I-PER/Beckett's
+4116	B-LOC/Chicago
+4117	B-ORG/the;I-ORG/Jets
+4118	
+4119	
+4120	
+4121	B-PER/Wendy;I-PER/Matthews
+4122	B-LOC/Chicago;B-PER/Cutler;B-MISC/superbowl
+4123	B-PER/Charlie
+4124	B-PER/Kevin;I-PER/Boss
+4125	B-ORG/NFC;I-ORG/championship;B-PER/BJ;I-PER/Raji
+4126	B-PER/paul;I-PER/weller;B-PER/john;I-PER/lennon
+4127	
+4128	
+4129	
+4130	
+4131	
+4132	
+4133	
+4134	
+4135	B-PER/Phil;I-PER/Collins
+4136	
+4137	B-PER/paul;I-PER/weller;B-PER/john;I-PER/lennon
+4138	B-PER/Tony;I-PER/Robbins
+4139	B-MISC/Ace;I-MISC/Award
+4140	
+4141	B-PER/aaron;I-PER/rodgers;B-PER/brett;I-PER/favre
+4142	B-PER/Mike;I-PER/Koivuniemi
+4143	B-PER/Mike;I-PER/Cera
+4144	B-ORG/Facebook;I-ORG/Group;B-ORG/Facebook
+4145	B-PER/Carrie;I-PER/Fisher;B-PER/John;I-PER/Travolta
+4146	
+4147	
+4148	B-PER/Michael;I-PER/Landon
+4149	
+4150	
+4151	B-PER/noel;I-PER/gallagher
+4152	B-PER/noel;I-PER/gallagher
+4153	B-PER/noel;I-PER/gallagher
+4154	B-PER/Mae;I-PER/West
+4155	
+4156	B-PER/Thomas;I-PER/Jefferson
+4157	B-PER/Mark;I-PER/Twain
+4158	B-PER/Sheryl;I-PER/Brady
+4159	
+4160	B-PER/Paulo;I-PER/Coelho
+4161	B-PER/Napoleon;I-PER/Hill
+4162	
+4163	
+4164	B-PER/Henry;I-PER/Ford
+4165	
+4166	
+4167	
+4168	
+4169	
+4170	
+4171	
+4172	B-PER/Rosie;I-PER/O'Donnell;B-PER/Ru;I-PER/Paul
+4173	B-PER/Christopher;I-PER/Wallace
+4174	
+4175	B-PER/CHRIS;I-PER/BOSH
+4176	B-PER/Aaron;I-PER/Rodgers
+4177	
+4178	B-PER/liam;I-PER/gallagher
+4179	B-PER/Julian;I-PER/Assange;B-MISC/2010;I-MISC/Person;I-MISC/of;I-MISC/the;I-MISC/Year
+4180	
+4181	B-LOC/south;I-LOC/africa
+4182	
+4183	
+4184	B-ORG/WikiLeaks;B-PER/Julian;I-PER/Assange;B-LOC/US;B-ORG/Telegraph
+4185	
+4186	B-PER/Aron;I-PER/Rodgers
+4187	B-LOC/Cleveland
+4188	
+4189	B-PER/Angelina;B-PER/Helen;B-PER/Angelina;I-PER/Jolie;B-MISC/Salt;B-PER/Adam;B-PER/Helen
+4190	B-PER/mike;I-PER/tomlin
+4191	B-PER/Sharon;I-PER/Stone
+4192	
+4193	
+4194	
+4195	B-PER/Angela;I-PER/Yee
+4196	B-PER/Blake;I-PER/Griffin
+4197	B-PER/Hanie;B-ORG/Packers
+4198	
+4199	
+4200	
+4201	B-PER/Matthew;I-PER/Besner
+4202	B-PER/Elizabeth;I-PER/Edwards
+4203	
+4204	B-PER/Caleb;B-MISC/NFC;I-MISC/Championship;B-ORG/Bears
+4205	
+4206	
+4207	
+4208	B-LOC/Delta
+4209	
+4210	
+4211	
+4212	B-PER/Keri;I-PER/Hilson
+4213	
+4214	
+4215	
+4216	
+4217	
+4218	
+4219	
+4220	
+4221	B-PER/RODDY;I-PER/WHITE
+4222	B-PER/Bernard;I-PER/Stokes
+4223	B-PER/Rob;I-PER/Trujillo
+4224	
+4225	
+4226	
+4227	B-PER/Sarah;I-PER/Palin;B-PER/Obama
+4228	B-PER/Tony;I-PER/McCarroll
+4229	
+4230	
+4231	B-PER/Addison;B-PER/Sam
+4232	B-PER/John;I-PER/Paul;I-PER/Stevens
+4233	B-PER/Sarah;I-PER/Palin
+4234	B-PER/Bob;I-PER/Robinson
+4235	
+4236	B-PER/John;I-PER/Wooden
+4237	B-PER/David;I-PER/Allen
+4238	B-PER/Bill;I-PER/Withers
+4239	B-PER/Kelly;I-PER/Osbourne
+4240	B-PER/Sandra;I-PER/Bullock
+4241	
+4242	B-PER/Napoleon;I-PER/Hill
+4243	B-PER/Dale;I-PER/Carnegie
+4244	
+4245	B-PER/Aaron;I-PER/Rodgers;B-PER/Cutler
+4246	
+4247	
+4248	B-PER/Corrie;I-PER/'''';B-LOC/EastEnders
+4249	B-LOC/LACEY
+4250	B-PER/Abraham;I-PER/H;I-PER/Maslow
+4251	B-PER/Keri;I-PER/Hilson
+4252	
+4253	
+4254	
+4255	
+4256	B-PER/Young;B-PER/Young
+4257	B-PER/Fakes
+4258	
+4259	
+4260	
+4261	B-PER/Annie;I-PER/Lenox
+4262	
+4263	B-ORG/Qualcomm;B-LOC/Apple's
+4264	
+4265	

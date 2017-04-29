@@ -1,0 +1,595 @@
+MISC Super Bowl
+MISC superbowl
+MISC super bowl
+MISC Olympics
+MISC Olympic games
+MISC world cup
+MISC MMA
+MISC NFC championship
+MISC FIFA World Cup
+MISC FIFA Confederations Cup
+MISC Tour de France
+MISC UEFA Champions League
+MISC Rugby Union World Cup
+MISC Rugby World Cup
+MISC Giro D'Italia
+MISC Liga ACB
+MISC Australia Open
+MISC French Open
+MISC Wimbledon
+MISC F1
+
+MISC ABA
+MISC AFL
+MISC ALPBC
+MISC AWHL
+MISC AYSO
+MISC CHL
+MISC ECHL
+MISC FPB
+MISC LPGA
+MISC IBA
+MISC IHL
+MISC IL
+MISC MLB
+MISC MLPBC
+MISC MLS
+MISC MSBL
+MISC NASCAR
+MISC NBA
+MISC NCAA
+MISC NFL
+MISC NHL
+MISC PCBL
+MISC PGA
+MISC SAY
+MISC UHL
+MISC USHL
+MISC USL
+MISC WBL
+MISC WCHL
+MISC WNBA
+MISC WPHL
+MISC WWF
+
+
+MISC Oscar
+
+MISC Nobel Prize
+
+
+MISC The Shawshank Redemption
+MISC The Godfather
+MISC The Godfather: Part II
+MISC The Dark Knight
+MISC 12 Angry Men
+MISC Schindler's List
+MISC Pulp Fiction
+MISC The Lord of the Rings: The Return of the King
+MISC Il buono, il brutto, il cattivo
+MISC Fight Club
+MISC The Lord of the Rings: The Fellowship of the Ring
+MISC Star Wars: Episode V - The Empire Strikes Back
+MISC Forrest Gump
+MISC Inception
+MISC The Lord of the Rings: The Two Towers
+MISC One Flew Over the Cuckoo's Nest
+MISC Goodfellas
+MISC The Matrix
+MISC Shichinin no samurai
+MISC Star Wars: Episode IV - A New Hope
+MISC Cidade de Deus
+MISC Se7en
+MISC The Silence of the Lambs
+MISC It's a Wonderful Life
+MISC La vita è bella
+MISC The Usual Suspects
+MISC Léon
+MISC De reis van Chihiro
+MISC Saving Private Ryan
+MISC Once Upon a Time in the West
+MISC American History X
+MISC Interstellar
+MISC Casablanca
+MISC Psycho
+MISC City Lights
+MISC The Green Mile
+MISC The Intouchables
+MISC Modern Times
+MISC Indiana Jones and the Raiders of the Lost Ark
+MISC Rear Window
+MISC The Pianist
+MISC The Departed
+MISC Terminator 2: Judgment Day
+MISC Back to the Future
+MISC Whiplash
+MISC Gladiator
+MISC Memento
+MISC The Prestige
+MISC Apocalypse Now
+MISC De Leeuwenkoning
+MISC Alien
+MISC Sunset Blvd.
+MISC Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+MISC De dictator
+MISC Nuovo Cinema Paradiso
+MISC Das Leben der Anderen
+MISC Hotaru no haka
+MISC Paths of Glory
+MISC Django Unchained
+MISC The Shining
+MISC WALL·E
+MISC American Beauty
+MISC The Dark Knight Rises
+MISC Logan
+MISC Mononoke-hime
+MISC Aliens
+MISC Oldeuboi
+MISC Once Upon a Time in America
+MISC Witness for the Prosecution
+MISC Das Boot
+MISC Citizen Kane
+MISC North by Northwest
+MISC Vertigo
+MISC Star Wars: Episode VI - Return of the Jedi
+MISC Reservoir Dogs
+MISC Braveheart
+MISC M
+MISC La La Land
+MISC Requiem for a Dream
+MISC Amélie
+MISC A Clockwork Orange
+MISC Taare Zameen Par
+MISC Taxi Driver
+MISC Lawrence of Arabia
+MISC Double Indemnity
+MISC Eternal Sunshine of the Spotless Mind
+MISC To Kill a Mockingbird
+MISC Amadeus
+MISC Toy Story 3
+MISC Full Metal Jacket
+MISC The Sting
+MISC 2001: A Space Odyssey
+MISC Singin' in the Rain
+MISC Dangal
+MISC Toy Story
+MISC Ladri di biciclette
+MISC The Kid
+MISC Inglourious Basterds
+MISC Snatch
+MISC Babam ve Oglum
+MISC 3 Idiots
+MISC Monty Python and the Holy Grail
+MISC L.A. Confidential
+MISC Per qualche dollaro in più
+MISC Scarface
+MISC Jagten
+MISC The Apartment
+MISC Good Will Hunting
+MISC Rashômon
+MISC Jodaeiye Nader az Simin
+MISC Metropolis
+MISC Indiana Jones and the Last Crusade
+MISC All About Eve
+MISC Yôjinbô
+MISC Kimi no na wa
+MISC Batman Begins
+MISC Up
+MISC Some Like It Hot
+MISC The Treasure of the Sierra Madre
+MISC Unforgiven
+MISC Der Untergang
+MISC Raging Bull
+MISC Die Hard
+MISC The Third Man
+MISC Bacheha-Ye aseman
+MISC Heat
+MISC The Great Escape
+MISC Chinatown
+MISC Ikiru
+MISC Pan's Labyrinth
+MISC Inside Out
+MISC Tonari no Totoro
+MISC Ran
+MISC The Gold Rush
+MISC On the Waterfront
+MISC Room
+MISC El secreto de sus ojos
+MISC Andrei Rublev
+MISC The Bridge on the River Kwai
+MISC Blade Runner
+MISC Hauru no ugoku shiro
+MISC Det sjunde inseglet
+MISC Mr. Smith Goes to Washington
+MISC Lock, Stock and Two Smoking Barrels
+MISC Incendies
+MISC Oordeel te Neurenberg
+MISC Casino
+MISC A Beautiful Mind
+MISC The Elephant Man
+MISC Smultronstället
+MISC V for Vendetta
+MISC The Wolf of Wall Street
+MISC The General
+MISC Warrior
+MISC Eskiya
+MISC Hacksaw Ridge
+MISC Sunrise: A Song of Two Humans
+MISC Trainspotting
+MISC Gran Torino
+MISC Dial M for Murder
+MISC The Deer Hunter
+MISC The Big Lebowski
+MISC A Wednesday
+MISC Fargo
+MISC Gone with the Wind
+MISC Tôkyô monogatari
+MISC Rang De Basanti
+MISC La passion de Jeanne d'Arc
+MISC The Sixth Sense
+MISC Finding Nemo
+MISC The Thing
+MISC No Country for Old Men
+MISC Cool Hand Luke
+MISC Rebecca
+MISC Hoe tem je een draak
+MISC Kill Bill: Vol. 1
+MISC There Will Be Blood
+MISC Idi i smotri
+MISC Mary and Max
+MISC Into the Wild
+MISC Gone Girl
+MISC Life of Brian
+MISC Het gebeurde op 'n avond
+MISC Shutter Island
+MISC Platoon
+MISC Hotel Rwanda
+MISC Rush
+MISC Munna Bhai M.B.B.S.
+MISC Network
+MISC Relatos salvajes
+MISC Le salaire de la peur
+MISC Stand by Me
+MISC In the Name of the Father
+MISC Spotlight
+MISC Les quatre cents coups
+MISC Mad Max: Fury Road
+MISC 12 Years a Slave
+MISC The Grand Budapest Hotel
+MISC Butch Cassidy and the Sundance Kid
+MISC Ben Hur
+MISC Persona
+MISC Million Dollar Baby
+MISC Sholay
+MISC The Maltese Falcon
+MISC Amores perros
+MISC Hera Pheri
+MISC Jurassic Park
+MISC Le notti di Cabiria
+MISC Salinui chueok
+MISC Star Wars: Episode VII - The Force Awakens
+MISC The Princess Bride
+MISC Stalker
+MISC Hachi: A Dog's Tale
+MISC The Truman Show
+MISC Kaze no tani no Naushika
+MISC Before Sunrise
+MISC The Grapes of Wrath
+MISC Andaz Apna Apna
+MISC Touch of Evil
+MISC Rocky
+MISC Harry Potter and the Deathly Hallows: Part 2
+MISC Annie Hall
+MISC Gandhi
+MISC Prisoners
+MISC Demonen
+MISC Donnie Darko
+MISC The Bourne Ultimatum
+MISC Monsters, Inc.
+MISC Get Out
+MISC Catch Me If You Can
+MISC The Terminator
+MISC 8½
+MISC The Wizard of Oz
+MISC Groundhog Day
+MISC La haine
+MISC Barry Lyndon
+MISC Twelve Monkeys
+MISC Jaws
+MISC Mou gaan dou
+MISC De beste jaren van ons leven
+MISC De slag om Algiers
+MISC Zootropolis
+MISC Dog Day Afternoon
+MISC Wat is er toch van Baby Jane terechtgekomen?
+MISC The Help
+MISC Belle en het Beest
+MISC Gangs of Wasseypur
+MISC Drishyam
+MISC Strangers on a Train
+MISC PK
+MISC Love and Other Drugs
+MISC Love and other drugs
+MISC Valley Girl
+MISC All about the Benjamins
+MISC A Charlie Brown Christmas
+MISC Rambo
+MISC The Last Song
+MISC Ace Ventura Pet Detective
+MISC The Real Housewives of Beverly Hills
+MISC The Good, the Bad and the Ugly
+MISC The Day After
+
+
+
+MISC Planet Earth II
+MISC Band of Brothers
+MISC Planet Earth
+MISC Game of Thrones
+MISC Breaking Bad
+MISC The Wire
+MISC Cosmos: A Spacetime Odyssey
+MISC Rick and Morty
+MISC Cosmos
+MISC The Sopranos
+MISC The World at War
+MISC Sherlock
+MISC Life
+MISC Avatar: The Last Airbender
+MISC The Civil War
+MISC Firefly
+MISC Human Planet
+MISC Last Week Tonight with John Oliver
+MISC Dekalog
+MISC The Twilight Zone
+MISC True Detective
+MISC Hagane no renkinjutsushi
+MISC Africa
+MISC Fargo
+MISC Prison Break: Sequel
+MISC The Blue Planet
+MISC Westworld
+MISC Batman: The Animated Series
+MISC Frozen Planet
+MISC Death Note: Desu nôto
+MISC One Punch Man: Wanpanman
+MISC Kaubôi bibappu
+MISC House of Cards
+MISC Pride and Prejudice
+MISC Monty Python's Flying Circus
+MISC TVF Pitchers
+MISC 13 Reasons Why
+MISC Das Boot
+MISC Arrested Development
+MISC Stranger Things
+MISC Over the Garden Wall
+MISC Sarabhai vs Sarabhai
+MISC Black Mirror
+MISC Seinfeld
+MISC Friends
+MISC Twin Peaks
+MISC Only Fools and Horses
+MISC I, Claudius
+MISC Narcos
+MISC Freaks and Geeks
+MISC Gravity Falls
+MISC Blackadder Goes Forth
+MISC Fawlty Towers
+MISC Rome
+MISC The Grand Tour
+MISC This Is Us
+MISC Oz
+MISC The Simpsons
+MISC The Return of Sherlock Holmes
+MISC The Jinx: The Life and Deaths of Robert Durst
+MISC Making a Murderer
+MISC The Crown
+MISC South Park
+MISC Dragon Ball Z
+MISC It's Always Sunny in Philadelphia
+MISC The Office
+MISC House M.D
+MISC Archer
+MISC Shingeki no kyojin
+MISC Chappelle's Show
+MISC Six Feet Under
+MISC Peaky Blinders
+MISC Steins;Gate
+MISC The Adventures of Sherlock Holmes
+MISC The West Wing
+MISC From the Earth to the Moon
+MISC Dragon Ball Z: Doragon bôru zetto
+MISC Top Gear
+MISC Lonesome Dove
+MISC Hunter x Hunter
+MISC Deadwood
+MISC Long Way Round
+MISC Skam
+MISC North & South
+MISC Dexter
+MISC Daredevil
+MISC Battlestar Galactica
+MISC Nathan for You
+MISC Horace and Pete
+MISC The Thick of It
+MISC Taboo
+MISC Better Call Saul
+MISC The X Files
+MISC The Shield
+MISC Black-Adder II
+MISC Curb Your Enthusiasm
+MISC Big Little Lies
+MISC Doctor Who
+MISC Kenpû denki beruseruku
+MISC QI
+MISC Kôdo giasu: Hangyaku no rurûshu
+MISC Black Adder the Third
+MISC Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen
+MISC The Daily Show
+MISC Shameless
+MISC Mystery Science Theater 3000
+MISC Through the Wormhole
+MISC Brass Eye
+MISC Spaced
+MISC Legion
+MISC Downton Abbey
+MISC Hagane no renkinjutsushi
+MISC Young Justice
+MISC Battlestar Galactica
+MISC Yes, Prime Minister
+MISC The Night Of
+MISC Chef's Table
+MISC Star Trek: The Next Generation
+MISC Yes Minister
+MISC Louie
+MISC Leyla ile Mecnun
+MISC Generation Kill
+MISC Parks and Recreation
+MISC Mad Men
+MISC Mr. Robot
+MISC Friday Night Lights
+MISC Kardes Payi
+MISC Samurai chanpurû
+MISC The Bugs Bunny Show
+MISC Father Ted
+MISC Adventure Time with Finn & Jake
+MISC Wan pîsu: One Piece
+MISC Impractical Jokers
+MISC Flight of the Conchords
+MISC John Adams
+MISC Gomorra - La serie
+MISC Monster
+MISC Justice League
+MISC Justified
+MISC Dr. Horrible's Sing-Along Blog
+MISC Shin Seiki Evangerion
+MISC Bron/Broen
+MISC House of Cards
+MISC Boardwalk Empire
+MISC Dragon Ball: Doragon bôru
+MISC Homicide: Life on the Street
+MISC Coupling
+MISC Peep Show
+MISC Alfred Hitchcock Presents
+MISC The Newsroom
+MISC Dragon Ball
+MISC The Office
+MISC Ash vs Evil Dead
+MISC Rurôni Kenshin -Meiji kenkaku romantan
+MISC Vikings
+MISC The New Batman Adventures
+MISC The Colbert Report
+MISC Spartacus: Gods of the Arena
+MISC Tinker Tailor Soldier Spy
+MISC Whose Line Is It Anyway
+MISC The Prisoner
+MISC Atlanta
+MISC Agatha Christie's Poirot
+MISC The IT Crowd
+MISC The Venture Bros
+MISC The Angry Video Game Nerd
+MISC Luther
+MISC Kôkaku kidôtai: Stand Alone Complex
+MISC American Crime Story
+MISC Mr. Bean
+MISC Behzat Ç.: Bir Ankara Polisiyesi
+MISC Black Books
+MISC Suits
+MISC The Legend of Korra
+MISC I'm Alan Partridge
+MISC Hannibal
+MISC Boku dake ga inai machi
+MISC Futurama
+MISC Silicon Valley
+MISC Spartacus: Blood and Sand
+MISC Sons of Anarchy
+MISC Jesus of Nazareth
+MISC The Knick
+MISC Wentworth
+MISC Isler Güçler
+MISC Permanent Roommates
+MISC Garth Marenghi's Darkplace
+MISC Community
+MISC Carnivàle
+MISC Police Squad
+MISC X-Men
+MISC Endeavour
+MISC Modern Family
+MISC Scener ur ett äktenskap
+MISC State of Play
+MISC Unsere Mütter, unsere Väter
+MISC Jeeves and Wooster
+MISC Happy Valley
+MISC Entourage
+MISC Utopia
+MISC Kiseijû: Sei no kakuritsu
+MISC The Muppet Show
+MISC The Larry Sanders Show
+MISC Mushishi
+MISC Yu Yu Hakusho
+MISC Doctor Who
+MISC Roots
+MISC Naruto: Shippûden
+MISC Mr. Show with Bob and David
+MISC Borgen
+MISC Samurai Jack
+MISC The Walking Dead
+MISC Brigada
+MISC Red Dwarf
+MISC Riget
+MISC Southland
+MISC Summer Heights High
+MISC Hellsing Ultimate
+MISC My Mad Fat Diary
+MISC 24: Live Another Day
+MISC Top Gear
+MISC Trailer Park Boys
+MISC Supernatural
+MISC Bleak House
+MISC The Inbetweeners
+MISC BoJack Horseman
+MISC Fringe
+MISC Prison Break
+MISC Lost
+MISC M*A*S*H
+MISC Boston Legal
+MISC I Love Lucy
+MISC Star Trek
+MISC Terriers
+MISC Broad City
+MISC Anne of Green Gables
+MISC The Young Pope
+MISC Olive Kitteridge
+MISC Extras
+MISC Stargate SG-1
+MISC Pushing Daisies
+MISC The Get Down
+MISC Broadchurch
+MISC Scrubs
+MISC Dragon Ball Kai: Doragon bôru kai
+MISC Banshee
+MISC Please Like Me
+MISC The League of Gentlemen
+MISC 24
+MISC Person of Interest
+MISC Married with Children
+MISC Jersey Shore
+MISC Battlestar Galactica
+MISC Buck Rogers
+
+
+MISC Saturday Night Live
+
+
+MISC PHP
+MISC JAVA
+MISC Java
+MISC JavaScript
+MISC C++
+MISC C#
+MISC Python
+MISC HTML
+MISC CSS
+MISC Matlab
+
+

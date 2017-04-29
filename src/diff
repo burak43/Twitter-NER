@@ -1,0 +1,626 @@
+228,230c228,230
+< Teilhard	O	O
+< De	O	O
+< Chardin	O	O
+---
+> Teilhard	O	B-PER
+> De	O	I-PER
+> Chardin	O	I-PER
+812c812
+< NY	O	O
+---
+> NY	O	B-LOC
+977c977
+< Ray	O	B-PER
+---
+> Ray	O	O
+1105,1106c1105,1106
+< Dr.	O	B-PER
+< Seuss	O	I-PER
+---
+> Dr.	O	O
+> Seuss	O	O
+1203c1203
+< Santa	O	I-LOC
+---
+> Santa	O	O
+1268,1269c1268,1269
+< Edu	O	B-LOC
+< Dept	O	I-LOC
+---
+> Edu	O	B-PER
+> Dept	O	I-PER
+1365,1366c1365,1366
+< Don	O	B-PER
+< Cherry	O	I-PER
+---
+> Don	O	O
+> Cherry	O	O
+1383c1383
+< Spokes	O	B-ORG
+---
+> Spokes	O	O
+1398,1399c1398,1399
+< Don	O	B-PER
+< Cherry	O	I-PER
+---
+> Don	O	O
+> Cherry	O	O
+1662,1663c1662,1663
+< Illinois	O	B-ORG
+< Senate	O	I-ORG
+---
+> Illinois	O	B-LOC
+> Senate	O	I-LOC
+1723,1725c1723,1725
+< Soul	O	O
+< Train	O	B-PER
+< Awards	O	I-PER
+---
+> Soul	O	B-MISC
+> Train	O	I-MISC
+> Awards	O	I-MISC
+1916c1916
+< Gibson:''	O	I-PER
+---
+> Gibson:''	O	O
+1937c1937
+< Drake	O	O
+---
+> Drake	O	B-PER
+2302c2302
+< Chelsea	O	B-PER
+---
+> Chelsea	O	B-ORG
+2345c2345
+< Chelsea	O	B-PER
+---
+> Chelsea	O	B-ORG
+2777c2777
+< Norris	O	B-PER
+---
+> Norris	O	I-PER
+2842c2842
+< Cheney	O	B-PER
+---
+> Cheney	O	O
+3030c3030
+< Nothing's	O	B-PER
+---
+> Nothing's	O	O
+3056c3056
+< west	O	O
+---
+> west	O	I-LOC
+3868c3868
+< Sharia	O	B-PER
+---
+> Sharia	O	O
+4088,4089c4088,4089
+< Acorn	O	O
+< Squash-Japanese	O	O
+---
+> Acorn	O	B-PER
+> Squash-Japanese	O	I-PER
+4198c4198
+< bears	O	O
+---
+> bears	O	B-ORG
+5129c5129
+< jets	O	O
+---
+> jets	O	B-ORG
+5965c5965
+< MSNBC	O	O
+---
+> MSNBC	O	B-ORG
+6015c6015
+< Johnny	O	B-PER
+---
+> Johnny	O	O
+6040c6040
+< Johnny	O	B-PER
+---
+> Johnny	O	O
+6312c6312
+< Today's	O	B-PER
+---
+> Today's	O	O
+6673c6673
+< AUBURNN	O	B-LOC
+---
+> AUBURNN	O	B-ORG
+6727c6727
+< Hoboken's	O	B-PER
+---
+> Hoboken's	O	O
+7049,7050c7049,7050
+< Bristol	O	B-PER
+< Palin	O	I-PER
+---
+> Bristol	O	B-LOC
+> Palin	O	I-LOC
+7353c7353
+< Ivins/''	O	I-PER
+---
+> Ivins/''	O	O
+7601,7602c7601,7602
+< Garn	O	B-PER
+< Gelli	O	I-PER
+---
+> Garn	O	B-LOC
+> Gelli	O	I-LOC
+8194c8194
+< Rangel	O	B-PER
+---
+> Rangel	O	O
+8441c8441
+< Vick	O	O
+---
+> Vick	O	B-PER
+8647,8648c8647,8648
+< Max	O	B-PER
+< Presley	O	I-PER
+---
+> Max	O	O
+> Presley	O	O
+9048c9048
+< Christ	O	I-PER
+---
+> Christ	O	B-PER
+9621,9622c9621,9622
+< bola	O	O
+< papa	O	O
+---
+> bola	O	B-PER
+> papa	O	I-PER
+9677c9677
+< AP	O	O
+---
+> AP	O	B-ORG
+10233c10233
+< Didn	O	O
+---
+> Didn	O	I-MISC
+10468,10469c10468,10469
+< Democrats	O	O
+< Reach	O	O
+---
+> Democrats	O	B-ORG
+> Reach	O	I-ORG
+10871c10871
+< Apartment	O	O
+---
+> Apartment	O	I-LOC
+11238,11239c11238,11239
+< Democrats	O	O
+< Reach	O	O
+---
+> Democrats	O	B-ORG
+> Reach	O	I-ORG
+11264c11264
+< Palin	O	O
+---
+> Palin	O	B-PER
+11350,11352c11350,11352
+< Celine's	O	B-PER
+< Eye	O	I-PER
+< Candy	O	I-PER
+---
+> Celine's	O	O
+> Eye	O	O
+> Candy	O	O
+11361,11363c11361,11363
+< Celine's	O	B-PER
+< Eye	O	I-PER
+< Candy	O	I-PER
+---
+> Celine's	O	O
+> Eye	O	O
+> Candy	O	O
+11601,11603c11601,11603
+< Alan	O	B-PER
+< Titchmarsh	O	I-PER
+< show	O	O
+---
+> Alan	O	B-MISC
+> Titchmarsh	O	I-MISC
+> show	O	I-MISC
+11955c11955
+< Drivetime	O	I-PER
+---
+> Drivetime	O	O
+13247c13247
+< Dolphins	O	O
+---
+> Dolphins	O	B-ORG
+13665c13665
+< Liverpool	O	B-LOC
+---
+> Liverpool	O	B-ORG
+13922,13923c13922,13923
+< Black	O	B-LOC
+< Swan	O	I-LOC
+---
+> Black	O	B-MISC
+> Swan	O	I-MISC
+13937c13937
+< Chad	O	O
+---
+> Chad	O	B-PER
+14205,14206c14205,14206
+< Don	O	B-PER
+< Cherry	O	I-PER
+---
+> Don	O	O
+> Cherry	O	O
+14675,14676c14675,14676
+< Heathrow	O	B-PER
+< oper	O	I-PER
+---
+> Heathrow	O	O
+> oper	O	O
+14695,14696c14695,14696
+< of	O	O
+< Westminster	O	B-LOC
+---
+> of	O	I-LOC
+> Westminster	O	I-LOC
+14738c14738
+< Arsenal	O	O
+---
+> Arsenal	O	B-ORG
+14757c14757
+< Albrighton	O	B-PER
+---
+> Albrighton	O	O
+14845c14845
+< Arsenal	O	O
+---
+> Arsenal	O	B-ORG
+15046,15047c15046,15047
+< HOLLY	O	O
+< HOOKER	O	O
+---
+> HOLLY	O	B-PER
+> HOOKER	O	I-PER
+15353,15354c15353,15354
+< FABIO	O	O
+< CAPELLO	O	O
+---
+> FABIO	O	B-PER
+> CAPELLO	O	I-PER
+15408,15409c15408,15409
+< BRIAN	O	O
+< KIDD	O	O
+---
+> BRIAN	O	B-PER
+> KIDD	O	I-PER
+16368,16369c16368,16369
+< Don	O	B-PER
+< Cherry	O	I-PER
+---
+> Don	O	O
+> Cherry	O	O
+16503c16503
+< Matt	O	O
+---
+> Matt	O	B-PER
+16656c16656
+< Lakers	O	B-ORG
+---
+> Lakers	O	O
+16659c16659
+< Ferrari	O	B-PER
+---
+> Ferrari	O	O
+16722,16724c16722,16724
+< Shania	O	O
+< Twain	O	O
+< Shan	O	O
+---
+> Shania	O	B-PER
+> Twain	O	I-PER
+> Shan	O	I-PER
+16830c16830
+< wa	O	I-PER
+---
+> wa	O	O
+16938,16939c16938,16939
+< Tony	O	O
+< Cash	O	O
+---
+> Tony	O	B-PER
+> Cash	O	I-PER
+17122c17122
+< Ballet's	O	B-PER
+---
+> Ballet's	O	O
+17161,17162c17161,17162
+< kirk	O	O
+< franklin	O	O
+---
+> kirk	O	B-PER
+> franklin	O	I-PER
+17417c17417
+< Lexington's	O	B-LOC
+---
+> Lexington's	O	O
+17578c17578
+< Capone	O	B-PER
+---
+> Capone	O	O
+18221c18221
+< Vikings	O	B-PER
+---
+> Vikings	O	O
+18868,18869c18868,18869
+< the	O	O
+< Jets	O	B-ORG
+---
+> the	O	B-ORG
+> Jets	O	I-ORG
+19037c19037
+< Sampson	O	O
+---
+> Sampson	O	B-PER
+19232c19232
+< Qantas	O	O
+---
+> Qantas	O	B-ORG
+19442c19442
+< Nine	O	O
+---
+> Nine	O	B-LOC
+19522c19522
+< Dr.	O	O
+---
+> Dr.	O	B-PER
+19567c19567
+< bears	O	O
+---
+> bears	O	B-ORG
+19615,19616c19615,19616
+< Shogun	O	O
+< Bros	O	O
+---
+> Shogun	O	B-PER
+> Bros	O	I-PER
+19685c19685
+< Lois	O	O
+---
+> Lois	O	B-PER
+20191c20191
+< Drama	O	B-PER
+---
+> Drama	O	O
+20531,20532c20531,20532
+< Bitsy	O	B-PER
+< Spider	O	I-PER
+---
+> Bitsy	O	O
+> Spider	O	O
+20587,20588c20587,20588
+< KNIGHT	O	O
+< TRACK	O	O
+---
+> KNIGHT	O	B-PER
+> TRACK	O	I-PER
+20630,20631c20630,20631
+< Chuck	O	B-PER
+< Brown	O	I-PER
+---
+> Chuck	O	B-ORG
+> Brown	O	I-ORG
+20834,20835c20834,20835
+< CALVIN	O	O
+< HARRIS	O	O
+---
+> CALVIN	O	B-PER
+> HARRIS	O	I-PER
+20858,20859c20858,20859
+< elton	O	O
+< john	O	O
+---
+> elton	O	B-PER
+> john	O	I-PER
+21039c21039
+< MySpace	O	O
+---
+> MySpace	O	B-ORG
+21043c21043
+< Groupons	O	O
+---
+> Groupons	O	B-ORG
+21080c21080
+< Steelers	O	O
+---
+> Steelers	O	B-ORG
+21180,21181c21180,21181
+< Captain	O	B-PER
+< Save-a-Hoe	O	I-PER
+---
+> Captain	O	O
+> Save-a-Hoe	O	O
+21415,21416c21415,21416
+< Norm	O	O
+< Chow	O	O
+---
+> Norm	O	B-PER
+> Chow	O	I-PER
+21575,21576c21575,21576
+< Green	O	O
+< Tea	O	O
+---
+> Green	O	B-ORG
+> Tea	O	I-ORG
+21772,21773c21772,21773
+< Dr	O	O
+< Gratton	O	B-PER
+---
+> Dr	O	B-PER
+> Gratton	O	I-PER
+21831c21831
+< Albert	O	O
+---
+> Albert	O	I-PER
+22050c22050
+< Nelly	O	B-PER
+---
+> Nelly	O	O
+22412,22413c22412,22413
+< Da	O	O
+< Vinci	O	O
+---
+> Da	O	B-MISC
+> Vinci	O	I-MISC
+22681,22682c22681,22682
+< The	O	O
+< Jets	O	B-ORG
+---
+> The	O	B-ORG
+> Jets	O	I-ORG
+23261,23262c23261,23262
+< STEELER	O	O
+< NATION	O	O
+---
+> STEELER	O	B-PER
+> NATION	O	I-PER
+23620c23620
+< Pittsburgh	O	B-LOC
+---
+> Pittsburgh	O	B-ORG
+23692,23693c23692,23693
+< London	O	B-PER
+< Gatwick	O	I-PER
+---
+> London	O	B-LOC
+> Gatwick	O	I-LOC
+23697,23699c23697,23699
+< Athens	O	B-MISC
+< and	O	I-MISC
+< Rome	O	I-MISC
+---
+> Athens	O	B-LOC
+> and	O	O
+> Rome	O	B-LOC
+24029,24030c24029,24030
+< Major	O	B-PER
+< Tom	O	I-PER
+---
+> Major	O	O
+> Tom	O	O
+24651,24652c24651,24652
+< Dr.	O	B-PER
+< Seuss	O	I-PER
+---
+> Dr.	O	O
+> Seuss	O	O
+24669c24669
+< Bears	O	O
+---
+> Bears	O	B-ORG
+24718,24719c24718,24719
+< Man	O	B-PER
+< Enough	O	I-PER
+---
+> Man	O	O
+> Enough	O	O
+24730,24731c24730,24731
+< GONZALEZ	O	O
+< BABAAAAYYYYY	O	O
+---
+> GONZALEZ	O	B-PER
+> BABAAAAYYYYY	O	I-PER
+24772,24773c24772,24773
+< AMD	O	B-ORG
+< Ontario	O	I-ORG
+---
+> AMD	O	B-LOC
+> Ontario	O	I-LOC
+24840c24840
+< Saint-Exupery	O	I-PER
+---
+> Saint-Exupery	O	O
+24917c24917
+< DMR	O	B-ORG
+---
+> DMR	O	O
+24947c24947
+< Brad	O	O
+---
+> Brad	O	B-PER
+25130c25130
+< Indy	O	O
+---
+> Indy	O	B-PER
+25286c25286
+< Demo	O	O
+---
+> Demo	O	B-LOC
+25369,25370c25369,25370
+< Franz	O	O
+< Gayl	O	O
+---
+> Franz	O	B-PER
+> Gayl	O	I-PER
+25433,25434c25433,25434
+< V12	O	B-PER
+< Vantage	O	I-PER
+---
+> V12	O	O
+> Vantage	O	O
+25548c25548
+< Obama	O	B-PER
+---
+> Obama	O	I-MISC
+25764c25764
+< Vida	O	O
+---
+> Vida	O	B-PER
+25895c25895
+< twitter	O	O
+---
+> twitter	O	B-ORG
+26029,26030c26029,26030
+< Arnold	O	O
+< Schwarzenegger	O	O
+---
+> Arnold	O	B-PER
+> Schwarzenegger	O	I-PER
+26036,26038c26036,26038
+< The	O	O
+< Social	O	O
+< Network	O	O
+---
+> The	O	B-MISC
+> Social	O	I-MISC
+> Network	O	I-MISC
+26182,26183c26182,26183
+< big	O	O
+< Obama	O	B-PER
+---
+> big	O	I-PER
+> Obama	O	I-PER
+26412,26413c26412,26413
+< Hitler's	O	B-PER
+< Family	O	I-PER
+---
+> Hitler's	O	O
+> Family	O	O
+27273,27274c27273,27274
+< brett	O	O
+< favre	O	O
+---
+> brett	O	B-PER
+> favre	O	I-PER
+28389c28389
+< Mozgov	O	B-PER
+---
+> Mozgov	O	O
+28612,28613c28612,28613
+< stephen	O	B-PER
+< King	O	I-PER
+---
+> stephen	O	O
+> King	O	O

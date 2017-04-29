@@ -1,0 +1,440 @@
+I-LOC	Hampshire
+I-LOC	Jersey
+I-LOC	Mexico
+I-LOC	York
+I-LOC	Carolina
+I-LOC	Dakota
+I-LOC	Island
+I-LOC	Carolina
+I-LOC	Dakota
+I-LOC	Virginia
+I-LOC	States
+I-LOC	Union
+I-LOC	Kingdom
+I-LOC	Korea
+I-LOC	Arabia
+I-LOC	Arab Emirates
+I-LOC	Kong
+I-LOC	Africa
+I-LOC	Republic
+I-LOC	Zealand
+I-LOC	Rico
+I-LOC	Lanka
+I-LOC	Republic
+I-LOC	Rica
+I-LOC	Republic of the Congo
+I-LOC	d'Ivoire
+I-LOC	Salvador
+I-LOC	and Tobago
+I-LOC	New Guinea
+I-LOC	and Herzegovina
+I-LOC	Faso
+I-LOC	Guinea
+I-LOC	of Congo
+I-LOC	Leone
+I-LOC	Sudan
+I-LOC	African Republic
+I-LOC	Verde
+I-LOC	Marino
+I-LOC	Lucia
+I-LOC	and Barbuda
+I-LOC	Islands
+I-LOC	Kitts and Nevis
+I-LOC	Gambia
+I-LOC	Vincent and the Grenadines
+I-LOC	Tomé and Príncipe
+I-LOC	States of Micronesia
+I-LOC	Islands
+I-LOC	Dhabi
+I-LOC	Dhabi
+I-LOC	Island
+I-LOC	Ababa
+I-LOC	Menderes
+I-LOC	Basrah
+I-LOC	Bay
+I-LOC	Iskandariyh
+I-LOC	Ata
+I-LOC	Muthana
+I-LOC	Setar
+I-LOC	Harbor
+I-LOC	Village
+I-LOC	Island
+I-LOC	Suways
+I-LOC	City
+I-LOC	Abbas
+I-LOC	Seri Begawan
+I-LOC	Shahid Rejaie
+I-LOC	Gang
+I-LOC	Rouge
+I-LOC	Creek
+I-LOC	City
+I-LOC	Ruin
+I-LOC	City
+I-LOC	Horizonte
+I-LOC	Hills
+I-LOC	Vista
+I-LOC	Norton
+I-LOC	Aires
+I-LOC	Lakefront
+I-LOC	Said
+I-LOC	Sudan
+I-LOC	St Edmunds
+I-LOC	Harbor
+I-LOC	Bay
+I-LOC	David
+I-LOC	Grande
+I-LOC	Girardeau
+I-LOC	Town
+I-LOC	Yakatage
+I-LOC	City
+I-LOC	City
+I-LOC	Rapids
+I-LOC	Mai
+I-LOC	Amalie
+I-LOC	Docks
+I-LOC	Itza
+I-LOC	Lung
+I-LOC	Tao
+I-LOC	Military
+I-LOC	del Carmen
+I-LOC	Del Carmen
+I-LOC	del Este
+I-LOC	D'Alene
+I-LOC	Bay
+I-LOC	Station
+I-LOC	Harbor
+I-LOC	Springs
+I-LOC	Christi
+I-LOC	Creek
+I-LOC	do Sul
+I-LOC	Do Sul
+I-LOC	de Sac
+I-LOC	De Sac
+I-LOC	Es Salaam
+I-LOC	Beach
+I-LOC	Lake
+I-LOC	Rio
+I-LOC	Junction
+I-LOC	Moines
+I-LOC	MOINES
+I-LOC	Harbor
+I-LOC	Harbor
+I-LOC	Pass
+I-LOC	Island
+I-LOC	London
+I-LOC	Midlands
+I-LOC	Aaiun
+I-LOC	Ferrol Del Caudillo
+I-LOC	Paso
+I-LOC	Salvador
+I-LOC	Segundo
+I-LOC	Vigia
+I-LOC	Bay
+I-LOC	Point
+I-LOC	Pass
+I-LOC	Gang
+I-LOC	de France
+I-LOC	De France
+I-LOC	Lauderdale
+I-LOC	Myers
+I-LOC	Nelson
+I-LOC	Pierce
+I-LOC	Simpson
+I-LOC	Smith
+I-LOC	St. John
+I-LOC	Walton Beach
+I-LOC	Wayne
+I-LOC	Worth
+I-LOC	Yukon
+I-LOC	Park
+I-LOC	National Park
+I-LOC	Bay
+I-LOC	Bay
+I-LOC	Canaria
+I-LOC	Cayman
+I-LOC	Prairie
+I-LOC	Forks
+I-LOC	Junction
+I-LOC	Rapids
+I-LOC	Turk
+I-LOC	Falls
+I-LOC	Bay
+I-LOC	City
+I-LOC	Perdana Kusuma
+I-LOC	Beach
+I-LOC	Havn
+I-LOC	Yai
+I-LOC	River
+I-LOC	Harima
+I-LOC	Chi Minh
+I-LOC	Chi Minh City
+I-LOC	Cross
+I-LOC	Kong
+I-LOC	Bay
+I-LOC	Falls
+I-LOC	Falls
+I-LOC	Falls
+I-LOC	City
+I-LOC	Mountain
+I-LOC	Grande
+I-LOC	Bay
+I-LOC	Hole
+I-LOC	City
+I-LOC	City
+I-LOC	O'Groats
+I-LOC	Island
+I-LOC	Bahru
+I-LOC	Newbery
+I-LOC	Saom
+I-LOC	City
+I-LOC	Hsiung
+I-LOC	Harbor
+I-LOC	Harbor
+I-LOC	West
+I-LOC	Cove
+I-LOC	Salmon
+I-LOC	Wan
+I-LOC	Kinabalu
+I-LOC	Lumpur
+I-LOC	New Port
+I-LOC	Ceiba
+I-LOC	Coruna
+I-LOC	Crosse Wi
+I-LOC	Grande
+I-LOC	Habana
+I-LOC	Datu
+I-LOC	Charles
+I-LOC	Havasu City
+I-LOC	Harbor
+I-LOC	City
+I-LOC	End
+I-LOC	Pallice
+I-LOC	Paz
+I-LOC	Plata
+I-LOC	Rochelle
+I-LOC	Palmas
+I-LOC	Spezia
+I-LOC	Piedras
+I-LOC	Vegas
+I-LOC	Lawi
+I-LOC	Bourget
+I-LOC	Havre
+I-LOC	Palais
+I-LOC	Sables Dolonne
+I-LOC	Rock
+I-LOC	City
+I-LOC	Beach
+I-LOC	Angeles
+I-LOC	Cabos
+I-LOC	Mochis
+I-LOC	Gruz
+I-LOC	Island
+I-LOC	Astrodrome
+I-LOC	Vineyard
+I-LOC	Hall
+I-LOC	City
+I-LOC	Keynes
+I-LOC	Jabal Ali
+I-LOC	Vody
+I-LOC	Kawanoe
+I-LOC	Bay
+I-LOC	Point
+I-LOC	Hagen
+I-LOC	Pleasant
+I-LOC	Shoals
+I-LOC	Beach
+I-LOC	Bedford
+I-LOC	Bern
+I-LOC	Delhi
+I-LOC	Haven
+I-LOC	Orleans
+I-LOC	Westminster
+I-LOC	York
+I-LOC	York City
+I-LOC	Falls
+I-LOC	Beach
+I-LOC	Wells
+I-LOC	Los Rodeos
+I-LOC	Philadelphia
+I-LOC	Sad
+I-LOC	Laredo
+I-LOC	City
+I-LOC	Harbor
+I-LOC	Al Serio
+I-LOC	Pago
+I-LOC	Springs
+I-LOC	Alto
+I-LOC	City
+I-LOC	Lebar
+I-LOC	Juan Caballero
+I-LOC	Mall
+I-LOC	a Pitre
+I-LOC	Hope
+I-LOC	Lay
+I-LOC	Delgada
+I-LOC	Adelaide
+I-LOC	Arthur
+I-LOC	au Prince
+I-LOC	Au Prince
+I-LOC	Dalrymple
+I-LOC	Elizabeth
+I-LOC	Everglades
+I-LOC	Graham
+I-LOC	Harcourt
+I-LOC	Hedland
+I-LOC	Heiden
+I-LOC	Louis
+I-LOC	Lyttelton
+I-LOC	Moller
+I-LOC	Moresby
+I-LOC	Alegre
+I-LOC	de Leixoes
+I-LOC	De Leixoes
+I-LOC	de Sines
+I-LOC	De Sines
+I-LOC	of Spain
+I-LOC	Of Spain
+I-LOC	of Tyne
+I-LOC	Of Tyne
+I-LOC	Velho
+I-LOC	Harbor
+I-LOC	Vila
+I-LOC	Isle
+I-LOC	George
+I-LOC	Rupert
+I-LOC	Bay
+I-LOC	Armuelles
+I-LOC	Ayachucho
+I-LOC	Del Callao
+I-LOC	Escondido
+I-LOC	La Cruz
+I-LOC	La Guaira
+I-LOC	Maldonado
+I-LOC	Montt
+I-LOC	Ordaz
+I-LOC	Plata
+I-LOC	Vallarta
+I-LOC	Arenas
+I-LOC	Palenque
+I-LOC	Iboe
+I-LOC	City
+I-LOC	At Tannurah
+I-LOC	Shukhier
+I-LOC	Devil
+I-LOC	Dog
+I-LOC	Bay
+I-LOC	Luka
+I-LOC	de Janeiro
+I-LOC	De Janeiro
+I-LOC	Gallegos
+I-LOC	Town
+I-LOC	Mount
+I-LOC	Dock
+I-LOC	Mission
+I-LOC	Du Rouvray
+I-LOC	Georges
+I-LOC	Johns
+I-LOC	Michael
+I-LOC	Paul
+I-LOC	Petersburg
+I-LOC	Senboku
+I-LOC	Bay
+I-LOC	Lake City
+I-LOC	Andres Island
+I-LOC	Angelo
+I-LOC	Antonio
+I-LOC	Bernardino
+I-LOC	Diego
+I-LOC	Point
+I-LOC	Fernando
+I-LOC	Fernando de Apure
+I-LOC	Francisco
+I-LOC	Jose
+I-LOC	Juan
+I-LOC	Luis Potosi
+I-LOC	Pedro Sula
+I-LOC	Salvador
+I-LOC	Barbara
+I-LOC	Cruz
+I-LOC	Cruz De Tenerife
+I-LOC	Fe
+I-LOC	Maria
+I-LOC	de Compostela
+I-LOC	De Cuba
+I-LOC	Domingo
+I-LOC	Tome
+I-LOC	Dumont
+I-LOC	Luiz
+I-LOC	Paulo
+I-LOC	Tome
+I-LOC	Tome Island
+I-LOC	St. Marie
+I-LOC	Bay
+I-LOC	Dov
+I-LOC	Hai
+I-LOC	Islands
+I-LOC	Harbor
+I-LOC	Shan
+I-LOC	City
+I-LOC	Falls
+I-LOC	Island
+I-LOC	Stromfjord
+I-LOC	Bend
+I-LOC	Denis de la Reunion
+I-LOC	Spring
+I-LOC	Village
+I-LOC	George
+I-LOC	George Island
+I-LOC	Helena
+I-LOC	John
+I-LOC	Johns
+I-LOC	Kitts
+I-LOC	Kitts and Nevis
+I-LOC	Louis
+I-LOC	Louis
+I-LOC	Lucia
+I-LOC	Maarten
+I-LOC	Mary's
+I-LOC	Nazaire
+I-LOC	Poges
+I-LOC	River
+I-LOC	Paul
+I-LOC	Petersburg
+I-LOC	Pierre and Miquelon
+I-LOC	Thomas
+I-LOC	Vincent
+I-LOC	Vincent and the Grenadines
+I-LOC	Reine Sofia
+I-LOC	Oilfield
+I-LOC	Aviv
+I-LOC	Aviv-Yafo
+I-LOC	Junction
+I-LOC	Pho Ho Chi Minh
+I-LOC	Valley
+I-LOC	Bay
+I-LOC	Maria
+I-LOC	Bay
+I-LOC	Si
+I-LOC	Island
+I-LOC	City
+I-LOC	Harbor
+I-LOC	Rivieres
+I-LOC	Gutierrez
+I-LOC	Falls
+I-LOC	Pandang
+I-LOC	Bator
+I-LOC	d'Or
+I-LOC	D'Or
+I-LOC	Harbor
+I-LOC	Feiran
+I-LOC	DC
+I-LOC	Lake
+I-LOC	County
+I-LOC	Palm Beach
+I-LOC	Point
+I-LOC	Falls
+I-LOC	Run
+I-LOC	Caroline Island
+I-LOC	en Hoop
+I-LOC	En Hoop
+

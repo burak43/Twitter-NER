@@ -1,0 +1,19 @@
+1	Stanford	Stanford	NNP	_	_	_
+2	University	University	NNP	_	_	_
+3	is	be	VBZ	_	_	_
+4	located	located	JJ	_	_	_
+5	in	in	IN	_	_	_
+6	California	California	NNP	_	_	_
+7	.	.	.	_	_	_
+
+1	It	it	PRP	_	_	_
+2	is	be	VBZ	_	_	_
+3	a	a	DT	_	_	_
+4	great	great	JJ	_	_	_
+5	university	university	NN	_	_	_
+6	,	,	,	_	_	_
+7	founded	found	VBN	_	_	_
+8	in	in	IN	_	_	_
+9	1891	1891	CD	_	_	_
+10	.	.	.	_	_	_
+

@@ -1,0 +1,130 @@
+K=10
+
+maxLeft=1
+qnSize=10
+saveFeatureIndexToDisk = true
+useObservedSequencesOnly=true
+
+CRFClassifier tagged 4976 words in 274 documents at 3143,40 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0,8649	0,5000	0,6337	64	10	64
+           MISC	0,8000	0,1481	0,2500	4	1	23
+            ORG	0,8889	0,3678	0,5203	32	4	55
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,6269	0,4330	0,5122	42	25	55
+         Totals	0,7760	0,4189	0,5441	142	41	197
+
+---------------------------------------------------
+
+lowercaseNGrams = true
+dehyphenateNGrams = true
+conjoinShapeNGrams = true
+
+CRFClassifier tagged 4976 words in 274 documents at 2578,24 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0,8814	0,4063	0,5561	52	7	76
+           MISC	0,3333	0,0370	0,0667	1	2	26
+            ORG	0,8529	0,3333	0,4793	29	5	58
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,4868	0,3814	0,4277	37	39	60
+         Totals	0,6879	0,3510	0,4648	119	54	220
+
+---------------------------------------------------
+
+useNeighborNGrams = true
+OutOfMemory
+
+---------------------------------------------------
+
+useTags = true
+
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0,8525	0,4063	0,5503	52	9	76
+           MISC	0,3333	0,0370	0,0667	1	2	26
+            ORG	0,8750	0,3218	0,4706	28	4	59
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,4805	0,3814	0,4253	37	40	60
+         Totals	0,6782	0,3481	0,4600	118	56	221
+
+---------------------------------------------------
+
+useWordPairs = true
+
+CRFClassifier tagged 4976 words in 274 documents at 1862,28 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0,9000	0,4922	0,6364	63	7	65
+           MISC	0,8000	0,1481	0,2500	4	1	23
+            ORG	0,8889	0,3678	0,5203	32	4	55
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,6154	0,4124	0,4938	40	25	57
+         Totals	0,7853	0,4100	0,5388	139	38	200
+
+---------------------------------------------------
+
+useNextSequences = true
+
+CRFClassifier tagged 4976 words in 274 documents at 3629,47 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0,8767	0,5000	0,6368	64	9	64
+           MISC	0,8000	0,1481	0,2500	4	1	23
+            ORG	0,8889	0,3678	0,5203	32	4	55
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,5909	0,4021	0,4785	39	27	58
+         Totals	0,7680	0,4100	0,5346	139	42	200
+
+---------------------------------------------------
+
+maxNGramLeng=10
+
+CRFClassifier tagged 4976 words in 274 documents at 2257,71 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0,8767	0,5000	0,6368	64	9	64
+           MISC	0,8000	0,1481	0,2500	4	1	23
+            ORG	0,8718	0,3908	0,5397	34	5	53
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,5882	0,4124	0,4848	40	28	57
+         Totals	0,7634	0,4189	0,5410	142	44	197
+
+---------------------------------------------------
+
+normalizeTerms=true
+normalizeTimex=true
+useNB=true	
+
+CRFClassifier tagged 4976 words in 274 documents at 4304,50 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0,8767	0,5000	0,6368	64	9	64
+           MISC	0,8000	0,1481	0,2500	4	1	23
+            ORG	0,8889	0,3678	0,5203	32	4	55
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,6308	0,4227	0,5062	41	24	56
+         Totals	0,7833	0,4159	0,5434	141	39	198
+
+---------------------------------------------------
+
+useOccurrencePatterns=true
+
+            LOC	0,8767	0,5000	0,6368	64	9	64
+           MISC	0,8000	0,1481	0,2500	4	1	23
+            ORG	0,8611	0,3563	0,5041	31	5	56
+            Org	0,0000	1,0000	0,0000	0	1	0
+            PER	0,6418	0,4433	0,5244	43	24	54
+         Totals	0,7802	0,4189	0,5451	142	40	197
+
+# doesnt change anything
+
+useLemmas=true
+usePrevNextLemmas=true
+useLemmaAsWord=true
+useTypeSeqs3=true
+maxRight=1
+
+
+# not done (done: doens't change anything)
+
+useLongSequences
+useBoundarySequences
+useTaggySequences
+useExtraTaggySequences
+useTaggySequencesShapeInteraction
+strictlyFirstOrder

@@ -1,0 +1,358 @@
+ORG Apple
+ORG Amazon.com
+ORG Starbucks
+ORG Berkshire Hathaway
+ORG Disney
+ORG Alphabet
+ORG General Electric
+ORG Southwest Airlines
+ORG Facebook
+ORG Microsoft
+ORG FedEx
+ORG Nike
+ORG Johnson & Johnson
+ORG Netflix
+ORG Costco
+ORG Coca-Cola
+ORG American Express
+ORG Nordstrom
+ORG Procter & Gamble
+ORG salesforce.com
+ORG BMW
+ORG JPMorgan Chase
+ORG 3M
+ORG IBM
+ORG Marriott International
+ORG USAA
+ORG Goldman Sachs Group
+ORG Whole Foods Market
+ORG BlackRock
+ORG Boeing
+ORG Delta Air Lines
+ORG Home Depot
+ORG Singapore Airlines
+ORG Toyota Motor
+ORG UPS
+ORG Nestle
+ORG AT&T
+ORG Unilever
+ORG PepsiCo
+ORG Exxon Mobil
+ORG Accenture
+ORG Walmart
+ORG St. Jude Medical
+ORG Target
+ORG CVS Health
+ORG Intel
+ORG Caterpillar
+ORG McDonald’s
+ORG Visa
+ORG Deere
+ORG ABB
+ORG Abbott Laboratories
+ORG AbbVie
+ORG Activision Blizzard
+ORG Adidas
+ORG Adobe Systems
+ORG AECOM
+ORG Aetna
+ORG Aflac
+ORG Airbus Group
+ORG Air France-KLM Group
+ORG Allianz
+ORG Alstom
+ORG American Electric Power
+ORG AmerisourceBergen
+ORG Amgen
+ORG ANA Holdings
+ORG Analog Devices
+ORG Anheuser-Busch InBev
+ORG Applied Materials
+ORG Aramark
+ORG ArcelorMittal
+ORG Archer Daniels Midland
+ORG Arconic
+ORG Arrow Electronics
+ORG Autodesk
+ORG Automatic Data Processing
+ORG Avnet
+ORG BAE Systems
+ORG Ball
+ORG Bank of America
+ORG Bank of New York Mellon
+ORG BASF
+ORG BB&T Corp.
+ORG Becton Dickinson
+ORG Bertelsmann
+ORG Best Buy
+ORG Booz Allen Hamilton Holding
+ORG Robert Bosch
+ORG Boston Scientific
+ORG Broadridge Financial Solutions
+ORG Brocade Communications Systems
+ORG Brown-Forman
+ORG Bunge
+ORG CalAtlantic Group
+ORG Capital One Financial
+ORG Cardinal Health
+ORG Carlyle Group
+ORG Cathay Pacific Airways
+ORG CBRE Group
+ORG Cerner
+ORG China Baowu Steel Group
+ORG China Minmetals
+ORG China Telecommunications
+ORG China United Network Communications
+ORG Ciena
+ORG Cigna
+ORG Cintas
+ORG Cisco Systems
+ORG Citigroup
+ORG Coca-Cola Bottling
+ORG Cognizant Technology Solutions
+ORG Colgate-Palmolive
+ORG Comcast
+ORG Constellation Brands
+ORG Continental
+ORG Corning
+ORG CSX
+ORG Cummins
+ORG Daimler
+ORG Danone
+ORG DaVita
+ORG Deutsche Post DHL Group
+ORG Diageo
+ORG Discovery Communications
+ORG DISH Network
+ORG Dominion Resources
+ORG Domino’s Pizza
+ORG Dr Pepper Snapple Group
+ORG DuPont
+ORG eBay
+ORG Ecolab
+ORG Electronic Arts
+ORG EMCOR Group
+ORG Emerson Electric
+ORG Equity Residential
+ORG LM Ericsson
+ORG Exelon
+ORG Expedia
+ORG Express Scripts Holding
+ORG Fiserv
+ORG Flex
+ORG Fluor
+ORG Ford Motor
+ORG Fortune Brands Home & Security
+ORG Fujitsu
+ORG Gap
+ORG Gartner
+ORG General Dynamics
+ORG General Mills
+ORG General Motors
+ORG Genuine Parts
+ORG Gilead Sciences
+ORG Goodyear Tire & Rubber
+ORG W.W. Grainger
+ORG Robert Half International
+ORG HCA Holdings
+ORG Heineken Holding
+ORG Henkel
+ORG Hilton Worldwide Holdings
+ORG Hitachi
+ORG Honda Motor
+ORG Honeywell International
+ORG D.R. Horton
+ORG Host Hotels & Resorts
+ORG HSBC Holdings
+ORG Humana
+ORG J.B. Hunt Transport Services
+ORG Hyatt Hotels
+ORG Illinois Tool Works
+ORG Ingersoll-Rand
+ORG Ingredion
+ORG International Paper
+ORG Intuit
+ORG Jabil Circuit
+ORG Jacobs Engineering Group
+ORG Johnson Controls
+ORG Jones Lang LaSalle (JLL)
+ORG Juniper Networks
+ORG KDDI
+ORG Kellogg
+ORG Kering
+ORG Peter Kiewit Sons’
+ORG Kindred Healthcare
+ORG Kobe Steel
+ORG Kohl’s
+ORG Komatsu
+ORG Kroger
+ORG Las Vegas Sands
+ORG Estee Lauder
+ORG L Brands
+ORG Lear
+ORG Leggett & Platt
+ORG Lennar
+ORG Liberty Global
+ORG Liberty Media
+ORG Liberty Mutual Insurance Group
+ORG LifePoint Health
+ORG Eli Lilly
+ORG Lockheed Martin
+ORG L’Oreal
+ORG Lowe’s
+ORG Lufthansa Group
+ORG Macy’s
+ORG Magellan Health
+ORG ManpowerGroup
+ORG Massachusetts Mutual Life
+ORG Mastercard
+ORG Maximus
+ORG McKesson
+ORG Medtronic
+ORG Merck
+ORG MGM Resorts International
+ORG Michelin
+ORG Mitsubishi UFJ Financial Group
+ORG Mohawk Industries
+ORG Mondelez International
+ORG Monsanto
+ORG Morgan Stanley
+ORG Nationwide
+ORG Newell Brands
+ORG New York Life Insurance
+ORG NextEra Energy
+ORG NGL Energy Partners
+ORG Nippon Steel & Sumitomo Metal
+ORG NTT (Nippon Telegraph & Telephone)
+ORG Nissan Motor
+ORG Nokia
+ORG Northern Trust
+ORG Northrop Grumman
+ORG Northwestern Mutual
+ORG Novartis
+ORG Nucor
+ORG Nvidia
+ORG NVR
+ORG Paccar
+ORG Panasonic
+ORG Panera Bread
+ORG Paychex
+ORG PayPal Holdings
+ORG Pfizer
+ORG PG&E Corp.
+ORG PNC Financial Services Group
+ORG POSCO
+ORG PPG Industries
+ORG T. Rowe Price
+ORG Priceline Group
+ORG Prudential Financial
+ORG Public Service Enterprise Group
+ORG Publix Super Markets
+ORG PVH
+ORG Qualcomm
+ORG Quest Diagnostics
+ORG Quintiles IMS Holdings
+ORG Randstad Holding
+ORG Raymond James Financial
+ORG Raytheon
+ORG Renault
+ORG Rexel
+ORG C.H. Robinson Worldwide
+ORG Roche Group
+ORG Ross Stores
+ORG Royal Mail
+ORG Royal Ahold Delhaize
+ORG Royal Philips
+ORG Ryder System
+ORG Samsung Electronics
+ORG SAP
+ORG ScanSource
+ORG Henry Schein
+ORG Charles Schwab
+ORG Science Applications International
+ORG Sealed Air
+ORG Sherwin-Williams
+ORG Siemens
+ORG Simon Property Group
+ORG Smart & Final Stores
+ORG Sodexo
+ORG Sonoco Products
+ORG Sony
+ORG Southern
+ORG Stanley Black & Decker
+ORG State Farm Insurance
+ORG State Street Corp.
+ORG Stryker
+ORG Swiss Re
+ORG Taiwan Semiconductor
+ORG TD Ameritrade
+ORG Team Health Holdings
+ORG Tech Data
+ORG Telefonica
+ORG Texas Instruments
+ORG Thomson Reuters
+ORG ThyssenKrupp
+ORG TIAA
+ORG Time Warner
+ORG TJX
+ORG Toll Brothers
+ORG Toyota Industries
+ORG Travelers Cos.
+ORG Tyson Foods
+ORG UBS Group
+ORG Union Pacific
+ORG United Continental Holdings
+ORG UnitedHealth Group
+ORG United Technologies
+ORG Universal Health Services
+ORG U.S. Bancorp
+ORG Verizon
+ORG VF
+ORG Vodafone Group
+ORG Volvo
+ORG Walgreens Boots Alliance
+ORG WESCO International
+ORG WestRock
+ORG Whirlpool
+ORG Wilmar International
+ORG Wolseley
+ORG World Fuel Services
+ORG Wynn Resorts
+ORG Xcel Energy
+ORG Yum Brands
+ORG ZF Friedrichshafen
+
+
+ORG YouTube
+ORG Youtube
+ORG Google
+
+
+ORG facebook
+ORG youtube
+ORG cnbc
+ORG walmart
+ORG wal-mart
+ORG toyota
+ORG samsung
+ORG volkswagen
+ORG exxon
+ORG sinopec
+ORG gazprom
+ORG daimler
+ORG allianz
+ORG ibm
+ORG lenovo
+ORG itunes
+ORG thinkmobile
+ORG cisco
+ORG dmv
+ORG gigaom
+ORG htc
+ORG livestrong
+ORG nokia
+ORG mtv
+ORG tumblr
+ORG pxleyes
+ORG instagram
+ORG zazzle

@@ -1,0 +1,2241 @@
+LOC Alabama
+LOC Alaska
+LOC Arizona
+LOC Arkansas
+LOC California
+LOC Colorado
+LOC Connecticut
+LOC Delaware
+LOC Florida
+LOC Georgia
+LOC Hawaii
+LOC Idaho
+LOC Illinois
+LOC Indiana
+LOC Iowa
+LOC Kansas
+LOC Kentucky
+LOC Louisiana
+LOC Maine
+LOC Maryland
+LOC Massachusetts
+LOC Michigan
+LOC Minnesota
+LOC Mississippi
+LOC Missouri
+LOC Montana
+LOC Nebraska
+LOC Nevada
+LOC New Hampshire
+LOC New Jersey
+LOC New Mexico
+LOC New York
+LOC North Carolina
+LOC North Dakota
+LOC Ohio
+LOC Oklahoma
+LOC Oregon
+LOC Pennsylvania
+LOC Rhode Island
+LOC South Carolina
+LOC South Dakota
+LOC Tennessee
+LOC Texas
+LOC Utah
+LOC Vermont
+LOC Virginia
+LOC Washington
+LOC West Virginia
+LOC Wisconsin
+LOC Wyoming
+
+
+LOC US
+LOC U.S
+LOC U.S.
+LOC USA
+LOC U.S.A
+LOC U.S.A.
+LOC UK
+LOC U.K
+LOC U.K.
+
+
+LOC United States
+LOC European Union
+LOC China
+LOC Japan
+LOC Germany
+LOC United Kingdom
+LOC France
+LOC India
+LOC Italy
+LOC Brazil
+LOC Canada
+LOC South Korea
+LOC Russia
+LOC Australia
+LOC Spain
+LOC Mexico
+LOC Indonesia
+LOC Netherlands
+LOC Turkey
+LOC Switzerland
+LOC Saudi Arabia
+LOC Argentina
+LOC Taiwan
+LOC Sweden
+LOC Belgium
+LOC Poland
+LOC Nigeria
+LOC Iran
+LOC Thailand
+LOC Austria
+LOC Norway
+LOC United Arab Emirates
+LOC Venezuela
+LOC Egypt
+LOC Hong Kong
+LOC Israel
+LOC Philippines
+LOC Ireland
+LOC Malaysia
+LOC Denmark
+LOC Singapore
+LOC South Africa
+LOC Colombia
+LOC Pakistan
+LOC Finland
+LOC Chile
+LOC Bangladesh
+LOC Portugal
+LOC Vietnam
+LOC Greece
+LOC Czech Republic
+LOC Romania
+LOC Peru
+LOC New Zealand
+LOC Algeria
+LOC Qatar
+LOC Iraq
+LOC Kazakhstan
+LOC Hungary
+LOC Kuwait
+LOC Morocco
+LOC Puerto Rico
+LOC Ecuador
+LOC Sudan
+LOC Angola
+LOC Slovakia
+LOC Ukraine
+LOC Sri Lanka
+LOC Syria
+LOC Dominican Republic
+LOC Ethiopia
+LOC Kenya
+LOC Guatemala
+LOC Myanmar
+LOC Uzbekistan
+LOC Luxembourg
+LOC Oman
+LOC Costa Rica
+LOC Panama
+LOC Uruguay
+LOC Lebanon
+LOC Bulgaria
+LOC Croatia
+LOC Belarus
+LOC Tanzania
+LOC Slovenia
+LOC Macau
+LOC Lithuania
+LOC Ghana
+LOC Tunisia
+LOC Democratic Republic of the Congo
+LOC Jordan
+LOC Libya
+LOC Serbia
+LOC Turkmenistan
+LOC Bolivia
+LOC Azerbaijan
+LOC Côte d'Ivoire
+LOC Bahrain
+LOC Yemen
+LOC Cameroon
+LOC Latvia
+LOC Paraguay
+LOC El Salvador
+LOC Uganda
+LOC Estonia
+LOC Trinidad and Tobago
+LOC Nepal
+LOC Honduras
+LOC Zambia
+LOC Cyprus
+LOC Papua New Guinea
+LOC Iceland
+LOC Cambodia
+LOC Afghanistan
+LOC Bosnia and Herzegovina
+LOC Senegal
+LOC Gabon
+LOC Georgia
+LOC Zimbabwe
+LOC Mali
+LOC Jamaica
+LOC Laos
+LOC Nicaragua
+LOC Albania
+LOC Mozambique
+LOC Burkina Faso
+LOC Mauritius
+LOC Equatorial Guinea
+LOC Mongolia
+LOC Botswana
+LOC Armenia
+LOC Macedonia
+LOC Malta
+LOC Brunei
+LOC Chad
+LOC Namibia
+LOC Madagascar
+LOC Bahamas
+LOC Benin
+LOC Republic of Congo
+LOC Rwanda
+LOC Haiti
+LOC Niger
+LOC Guinea
+LOC Moldova
+LOC Tajikistan
+LOC Kosovo
+LOC Kyrgyzstan
+LOC Malawi
+LOC Eritrea
+LOC Mauritania
+LOC Fiji
+LOC Togo
+LOC Barbados
+LOC Sierra Leone
+LOC Montenegro
+LOC Suriname
+LOC Guyana
+LOC Swaziland
+LOC Maldives
+LOC Burundi
+LOC South Sudan
+LOC Timor-Leste
+LOC Liberia
+LOC Bhutan
+LOC Djibouti
+LOC Lesotho
+LOC Central African Republic
+LOC Belize
+LOC Cabo Verde
+LOC San Marino
+LOC St. Lucia
+LOC Seychelles
+LOC Antigua and Barbuda
+LOC Solomon Islands
+LOC Guinea-Bissau
+LOC Grenada
+LOC St. Kitts and Nevis
+LOC The Gambia
+LOC Samoa
+LOC Vanuatu
+LOC St. Vincent and the Grenadines
+LOC Comoros
+LOC Dominica
+LOC Tonga
+LOC São Tomé and Príncipe
+LOC Federated States of Micronesia
+LOC Palau
+LOC Marshall Islands
+LOC Kiribati
+LOC Tuvalu
+
+
+LOC Aaccra
+LOC Aalborg
+LOC Aarhus
+LOC Ababa
+LOC Abadan
+LOC Abakan
+LOC Aberdeen
+LOC Abha
+LOC Abi Dhabi
+LOC Abidjan
+LOC Abilene
+LOC Abu
+LOC Abu Dhabi
+LOC Abuja
+LOC Acapulco
+LOC Acarigua
+LOC Accra
+LOC Adak Island
+LOC Adana
+LOC Addis
+LOC Addis Ababa
+LOC Addlestone
+LOC Adelaide
+LOC Aden
+LOC Adler
+LOC Adnan Menderes
+LOC Agadir
+LOC Aguascalientes
+LOC Ahmedabad
+LOC Aires
+LOC Aix-En-Provence
+LOC Aix-Les-Bains
+LOC Ajaccio
+LOC Ajijic
+LOC Akiachak
+LOC Akiak
+LOC Akita
+LOC Akron
+LOC Al-Baha
+LOC Albany
+LOC Al Basrah
+LOC Albert Bay
+LOC Albertville
+LOC Albuquerque
+LOC Aleandria
+LOC Aleandroupolis
+LOC Alencon
+LOC Aleppo
+LOC Ales
+LOC Alexandrie
+LOC Al-Fujairah
+LOC Alger
+LOC Algesiras
+LOC Algiers
+LOC Alicante
+LOC Al Iskandariyh
+LOC Allahabad
+LOC Allakaket
+LOC Allentown
+LOC Alma Ata
+LOC Alma-Ata
+LOC AlmatyAmiens
+LOC Al Muthana
+LOC Alofi
+LOC Alor Setar
+LOC Altona
+LOC Altoona
+LOC Amarillo
+LOC Amchitka
+LOC Amman
+LOC Amritsar
+LOC Amsterdam
+LOC Anchorage
+LOC Ancona
+LOC Andahuaylas
+LOC Andorra
+LOC Anfa
+LOC Angeles
+LOC Angers
+LOC Angouleme
+LOC Anguilla
+LOC Aniak
+LOC Ankang
+LOC Ankara
+LOC Annaba
+LOC Annapolis
+LOC Annecy
+LOC Antalya
+LOC Antananarivo
+LOC Antannanarivo
+LOC Antigua
+LOC Antigua-Et-Anvers
+LOC Antofagasta
+LOC Antwerp
+LOC Antwerpen
+LOC Anvik
+LOC Aomori
+LOC Apia
+LOC Appleton
+LOC Apra Harbor
+LOC Aqaba
+LOC Arcachon
+LOC Arcata
+LOC Arctic Village
+LOC Arecibo
+LOC Arequipa
+LOC Argentia
+LOC Arica
+LOC Arkhangelsk
+LOC Arlanda
+LOC Aruba
+LOC Arzanah Island
+LOC Asahikawa
+LOC Ascension
+LOC Asheville
+LOC Ashkhabad
+LOC Asmara
+LOC As Suways
+LOC Astrurias
+LOC Asuncion
+LOC Asunción
+LOC Aswan
+LOC Athenes
+LOC Athens
+LOC Atlanta
+LOC Atlantic City
+LOC Atmautluak
+LOC Aubervillers
+LOC Auckland
+LOC Augusta
+LOC Aurora
+LOC Austin
+LOC Auteuil
+LOC Autrans
+LOC Auvillar
+LOC Avarua
+LOC Avignon
+LOC Aviv
+LOC Avoriaz
+LOC Ayacucho
+LOC Baghdad
+LOC Bahrain
+LOC Bahrein
+LOC Bakersfield
+LOC Baku
+LOC Balboa
+LOC Balmaceda
+LOC Baltimore
+LOC Bamako
+LOC Bandar
+LOC Bandar Abbas
+LOC Bandar Seri Begawan
+LOC Bandar Shahid Rejaie
+LOC Baneasa
+LOC Bangalore
+LOC Bangkok
+LOC Bangor
+LOC Bangui
+LOC Banjul
+LOC Banzart
+LOC Baotou
+LOC Barbados
+LOC Barcelona
+LOC Barcelone
+LOC Bardufoss
+LOC Barentsburg
+LOC Bari
+LOC Barinas
+LOC Barletta
+LOC Barnes
+LOC Barquisimeto
+LOC Barranquilla
+LOC Barrow
+LOC Barrow-In-Furness
+LOC Basle
+LOC Basra
+LOC Basseterre
+LOC Basse-Terre
+LOC Bastia
+LOC Basuo Gang
+LOC Baton Rouge
+LOC Battle Creek
+LOC Bay City
+LOC Bayonne
+LOC Bayonnne
+LOC Beaumont
+LOC Beauvais
+LOC Beaver
+LOC Beaver Ruin
+LOC Begawan
+LOC Beijing
+LOC Beira
+LOC Beirut
+LOC Bel-Air
+LOC Belem
+LOC Belfast
+LOC Belfast City
+LOC Belfort
+LOC Belgrade
+LOC Belize
+LOC Bellingham
+LOC Belmopan
+LOC Belo Horizonte
+LOC Benghazi
+LOC Bergen
+LOC Bergerac
+LOC Berkeley
+LOC Berlin
+LOC Bermuda
+LOC Bern
+LOC Berne
+LOC Besancon
+LOC Bethel
+LOC Bethlehem
+LOC Bettels
+LOC Bettles
+LOC Beverly Hills
+LOC Beyrouth
+LOC Biak
+LOC Biarritz
+LOC Bilbao
+LOC Billings
+LOC Billund
+LOC Biloxi
+LOC Binghamton
+LOC Bintulu
+LOC Birmingham
+LOC Bismarck
+LOC Bissau
+LOC Bitche
+LOC Blagnac
+LOC Blanding
+LOC Blantyre
+LOC Blantyre-Limbe
+LOC Bloemfontein
+LOC BloisBogota
+LOC Bloomington
+LOC Blyth
+LOC Boa Vista
+LOC Bodo
+LOC Bogota
+LOC Bogotá
+LOC Boise
+LOC Bologna
+LOC Bologne
+LOC Bombay
+LOC Bonaire
+LOC Bonn
+LOC Bordeaux
+LOC Borispol
+LOC Boston
+LOC Boulder
+LOC Boulogne
+LOC Bournemouth
+LOC Bozeman
+LOC Bradenton
+LOC Bradford
+LOC Brainerd
+LOC Brake
+LOC Brasilia
+LOC Bratislava
+LOC Brazzaville
+LOC Bremen
+LOC Bremerhaven
+LOC Bremerton
+LOC Brest
+LOC Bridgend
+LOC Bridgeport
+LOC Bridgetown
+LOC Brindisi
+LOC Brisbane
+LOC Bristol
+LOC Brize Norton
+LOC Bromma
+LOC Bromsgrove
+LOC Brooklyn
+LOC Brownsville
+LOC Brugge
+LOC Brunswick
+LOC Brussels
+LOC Bruxelles
+LOC Bruz
+LOC Buarest
+LOC Bucaramanga
+LOC Bucarest
+LOC Bucharest
+LOC Bucknall
+LOC Budapest
+LOC Buenos
+LOC Buenos Aires
+LOC Buffalo
+LOC Bujumbura
+LOC Bulawayo
+LOC Burbank
+LOC Burke Lakefront
+LOC Burkina-Caen
+LOC Burlington
+LOC Burnsall
+LOC Bur Said
+LOC Bur Sudan
+LOC Burton-on-Trent
+LOC Bury St Edmunds
+LOC Busan
+LOC Bushehr
+LOC Butte
+LOC Cadiz
+LOC Caire
+LOC Cairns
+LOC Cairo
+LOC Cajamarca
+LOC Calais
+LOC Calama
+LOC Calcutta
+LOC Calgary
+LOC Cali
+LOC Calicut
+LOC Calikyitsik
+LOC Calumet
+LOC Calumet Harbor
+LOC Calvi
+LOC Cambridge
+LOC Cambridge Bay
+LOC Camden
+LOC Camembert
+LOC Campana
+LOC Camp David
+LOC Campo Grande
+LOC Canaima
+LOC Canaport
+LOC Canberra
+LOC Cancun
+LOC Canet
+LOC Cannes
+LOC Canton
+LOC Cap
+LOC Cape Girardeau
+LOC Cape Town
+LOC Cape Yakatage
+LOC Caracas
+LOC Cardif
+LOC Cardiff
+LOC Carlisle
+LOC Carlsbad
+LOC Carnac
+LOC Carson City
+LOC Cartagena
+LOC Cartagene
+LOC Carthage
+LOC Carupano
+LOC Casablanca
+LOC Casper
+LOC Castries
+LOC Catania
+LOC Cayenne
+LOC Cebu
+LOC Cedar City
+LOC Cedar Rapids
+LOC Cergy
+LOC Ceuta
+LOC Chachapoyas
+LOC Chaiang Mai
+LOC Chalons-Sur-Saone
+LOC Chambery
+LOC Chamonix
+LOC Champaign
+LOC Champigny
+LOC Chandigarh
+LOC Changchun
+LOC Changsha
+LOC Chantilly
+LOC Charleston
+LOC Charlestown
+LOC Charleville-Mezieres
+LOC Charlotte Amalie
+LOC Chartres
+LOC Chateau-Thierry
+LOC Chatham Docks
+LOC Chattanooga
+LOC Chavanod
+LOC Chavenay
+LOC Cheam
+LOC Chefornak
+LOC Cheju
+LOC Chelmsford
+LOC Chengdu
+LOC Chennai
+LOC Cherbourg
+LOC Chester
+LOC Chetumal
+LOC Chevak
+LOC Cheyenne
+LOC Chi
+LOC Chiang
+LOC Chicago
+LOC Chichen Itza
+LOC Chiclayo
+LOC Chico
+LOC Chignik
+LOC Chihuahua
+LOC Chi Lung
+LOC Ching Tao
+LOC Chiswick
+LOC Chitose
+LOC Chittagong
+LOC Chongqing
+LOC Christchurch
+LOC Chuathbaluk
+LOC Cienfuegos
+LOC Cigli Military
+LOC Cincinnati
+LOC City
+LOC Ciudad del Carmen
+LOC Ciudad Del Carmen
+LOC Ciudad del Este
+LOC Civitavecchia
+LOC Cladisvostok
+LOC Clampino
+LOC Clermont-Ferrand
+LOC Cleveland
+LOC Clichy
+LOC Cobh
+LOC Cochabamba
+LOC Cochin
+LOC Coeur D'Alene
+LOC Colchester
+LOC Cold Bay
+LOC Colima
+LOC College Station
+LOC Colmar
+LOC Cologne
+LOC Colombo
+LOC Colombo Harbor
+LOC Colorado Springs
+LOC Columbia
+LOC Columbus
+LOC Columbuss
+LOC Conakry
+LOC Concepcion
+LOC Concord
+LOC Congonhas
+LOC Constantine
+LOC Copenhage
+LOC Copenhagen
+LOC Copenhague
+LOC Copiapo
+LOC Cordova
+LOC Corinth
+LOC Cork
+LOC Coro
+LOC Corpus Christi
+LOC Cotonou
+LOC Courchevel
+LOC Coyhaique
+LOC Cozumel
+LOC Cracovie
+LOC Cristobal
+LOC Crokked Creek
+LOC Cruzeiro do Sul
+LOC Cruzeiro Do Sul
+LOC Cuenca
+LOC Cuiaba
+LOC Cul de Sac
+LOC Cul De Sac
+LOC Culebra
+LOC Culiacan
+LOC Cumana
+LOC Curacao
+LOC Curitiba
+LOC Cusco
+LOC Cuxhaven
+LOC Dakar
+LOC Dalaman
+LOC Dalian
+LOC Dallas
+LOC DALLAS
+LOC Damas
+LOC Damascus
+LOC Damietta
+LOC Danbury
+LOC Danville
+LOC Dar
+LOC Dar Es Salaam
+LOC Dar-Es-Salaam
+LOC Darnetal
+LOC Darwin
+LOC Davao
+LOC Dayton
+LOC DAYTON
+LOC Daytona Beach
+LOC Deadhorse
+LOC Deauville
+LOC Decatur
+LOC Deering
+LOC Deer Lake
+LOC Delhi
+LOC Del Rio
+LOC Delta
+LOC Delta Junction
+LOC Denpasar
+LOC Denver
+LOC DENVER
+LOC Des Moines
+LOC DES MOINES
+LOC Destin
+LOC Detroit
+LOC DETROIT
+LOC Dhabi
+LOC Dhahran
+LOC Dhaka
+LOC Dieppe
+LOC Dijon
+LOC Dillingham
+LOC Djakarta
+LOC Djerba
+LOC Djibouti
+LOC Doha
+LOC Domingue
+LOC Domodedovo
+LOC Dordrecht
+LOC Dothan
+LOC Douala
+LOC Dover
+LOC Dover Harbor
+LOC Dresden
+LOC Dubai
+LOC Dublin
+LOC Dubrovnik
+LOC Dudinka
+LOC Duluth
+LOC Dundee
+LOC Dunkerque
+LOC Durango
+LOC Durban
+LOC Durham
+LOC Durres
+LOC Dushanbe
+LOC Dusseldorf
+LOC Düsseldorf
+LOC Dutch Harbor
+LOC Eagle Pass
+LOC Ealing
+LOC Easter Island
+LOC East London
+LOC East Midlands
+LOC Edinburgh
+LOC Edison
+LOC Edmonton
+LOC Egegik
+LOC Eindhoven
+LOC Ekaterinburg
+LOC El Aaiun
+LOC Elat
+LOC Elbeuf
+LOC El Ferrol Del Caudillo
+LOC Elko
+LOC Elmira
+LOC El Paso
+LOC El Salvador
+LOC El Segundo
+LOC El Vigia
+LOC Ely
+LOC Embarkadero
+LOC Emden
+LOC Emirats
+LOC Enfield
+LOC English Bay
+LOC Enschede
+LOC Ensenada
+LOC Ercan
+LOC Erfurt
+LOC Erie
+LOC Eros
+LOC Esbjerg
+LOC Esenboga
+LOC Essendon
+LOC Eugene
+LOC Eureka
+LOC Europa Point
+LOC Europoort
+LOC Evansville
+LOC Evenes
+LOC Evian
+LOC Evreux
+LOC Exeter
+LOC Fagall'l
+LOC Fairbanks
+LOC Falkirk
+LOC Falmouth
+LOC False Pass
+LOC Fangcheng Gang
+LOC Fargo
+LOC Faro
+LOC Fawley
+LOC Fayetteville
+LOC Fecamp
+LOC Felletin
+LOC Ferte-Bernard
+LOC Fez
+LOC Fillmore
+LOC Findlay
+LOC Fiumicino
+LOC Flagstaff
+LOC Flint
+LOC Florence
+LOC Flores
+LOC Fontainebleau
+LOC Fornebu
+LOC Fortaleza
+LOC Fort de France
+LOC Fort-de-France
+LOC Fort De France
+LOC Fort Lauderdale
+LOC Fort Myers
+LOC Fort Nelson
+LOC Fort Pierce
+LOC Fort Simpson
+LOC Fort Smith
+LOC Fort St. John
+LOC Fort Walton Beach
+LOC Fort Wayne
+LOC Fort Worth
+LOC Fort Yukon
+LOC Framingham
+LOC Francfort
+LOC Frankfort
+LOC Frankfurt
+LOC Franklin Park
+LOC Fransisco
+LOC Fredericton
+LOC Freeport
+LOC Freetown
+LOC Fremantle
+LOC Fresno
+LOC Friedrichshasen
+LOC Frunze
+LOC Fukuoka
+LOC Fukuyama
+LOC Fulham
+LOC Funafuti
+LOC Funchal
+LOC Futuna
+LOC Fuzhou
+LOC Gaborone
+LOC Gainsville
+LOC Galena
+LOC Galveston
+LOC Gamagori
+LOC Gardermoen
+LOC Garoua
+LOC Gassim
+LOC Gauhati
+LOC Gayaquil
+LOC Gdansk
+LOC Gdynia
+LOC Geelong
+LOC Geisum
+LOC Gemena
+LOC Geneva
+LOC Geneve
+LOC Genoa
+LOC Genova
+LOC Georgetown
+LOC Ghardaia
+LOC Glacier National Park
+LOC Glasgow
+LOC Glendale
+LOC Goa
+LOC Godthab
+LOC Golovim
+LOC Goma
+LOC Goodnews
+LOC Goodnews Bay
+LOC Goose Bay
+LOC Goroka
+LOC Goslar
+LOC Goteborg
+LOC Göteborg
+LOC Gothenburg
+LOC Gran Canaria
+LOC Grand Cayman
+LOC Grande Prairie
+LOC Grand Forks
+LOC Grand Junction
+LOC Grand Rapids
+LOC Grand Turk
+LOC Grangemouth
+LOC Grasse
+LOC Grayling
+LOC Graz
+LOC Great Falls
+LOC Green Bay
+LOC Greenock
+LOC Greensboro
+LOC Greenville
+LOC Grenada
+LOC Grenoble
+LOC Grimsby
+LOC Groningen
+LOC Groton
+LOC Guadalajara
+LOC Guam
+LOC Guangzhou
+LOC Guatemala
+LOC Guatemala City
+LOC Guayaquil
+LOC Guernsey
+LOC Guilin
+LOC Guinea-Bissau
+LOC Guiyang
+LOC Gulfport
+LOC Gulkana
+LOC Gunnison
+LOC Hagen
+LOC Haikou
+LOC Hail
+LOC Haines
+LOC Hakata
+LOC Hakodate
+LOC Halim Perdana Kusuma
+LOC Hall Beach
+LOC Halsingborg
+LOC Halstead
+LOC Hambourg
+LOC Hamburg
+LOC Hamilton
+LOC Haneda
+LOC Hangzhou
+LOC Hanko
+LOC Hanley
+LOC Hanoi
+LOC Hanover
+LOC Hanstholm Havn
+LOC Harare
+LOC Harbin
+LOC Harburg
+LOC Harlingen
+LOC Harlow
+LOC Harrisburg
+LOC Harrogate
+LOC Hartford
+LOC Hartlepool
+LOC Hastings
+LOC Hat Yai
+LOC Haugesund
+LOC Havana
+LOC Havane
+LOC Havre
+LOC Haye
+LOC Hay River
+LOC Hayward
+LOC Headingley
+LOC Hefei
+LOC Heidelberg
+LOC Helena
+LOC Helsingborg
+LOC Helsinki
+LOC Heraklion
+LOC Hermosillo
+LOC Hewanorra
+LOC Hibbing
+LOC Higashi Harima
+LOC Hilo
+LOC Hiroshima
+LOC Ho
+LOC Hobart
+LOC Hoboken
+LOC Ho Chi Minh
+LOC Ho Chi Minh City
+LOC Hohhot
+LOC Hollywood
+LOC Holy Cross
+LOC Homer
+LOC HongHongkong
+LOC Hong Kong
+LOC Honiara
+LOC Honolulu
+LOC Hoolehua
+LOC Hooper Bay
+LOC Hoorn
+LOC Hoskins
+LOC Houston
+LOC Hove
+LOC Huangpu
+LOC Huatulco
+LOC Hull
+LOC Humberside
+LOC Hunterston
+LOC Huntington
+LOC Huntsville
+LOC Huslia
+LOC Hvalfjordur
+LOC Hyannis
+LOC Hyderabad
+LOC Hyeres
+LOC Idaho Falls
+LOC Igarka
+LOC Iguassu Falls
+LOC Ile
+LOC Iliamna
+LOC Immingham
+LOC Inchon
+LOC Indianapolis
+LOC Innsbruck
+LOC Intercontinental
+LOC International Falls
+LOC Inuvik
+LOC Iowa City
+LOC Ipoh
+LOC Iqaluit
+LOC Iquique
+LOC Iraklion
+LOC Iron Mountain
+LOC Irvine
+LOC Irving
+LOC Isfahan
+LOC Isiro
+LOC Isla Grande
+LOC Islamabad
+LOC Issy-Les-Moulineaux
+LOC Istanbul
+LOC Itami
+LOC Ithaca
+LOC Ivanoff Bay
+LOC Iwakuni
+LOC Ixtapa
+LOC Izmir
+LOC Jackson
+LOC Jackson Hole
+LOC Jacksonville
+LOC Jaipur
+LOC Jakarta
+LOC Jalalabad
+LOC Janeiro
+LOC Janesville
+LOC Jarnac
+LOC Jeddah
+LOC Jefferson City
+LOC Jersey
+LOC Jersey City
+LOC Jerusalem
+LOC Jinan
+LOC Johannesburg
+LOC John O'Groats
+LOC Johnston Island
+LOC Johor Bahru
+LOC Jonkoping
+LOC Jorge Newbery
+LOC Jose
+LOC Jouy-En-Josas
+LOC Juan
+LOC Juanjui
+LOC Juba
+LOC Jubail
+LOC Juliaca
+LOC Juneau
+LOC Kabul
+LOC Kaduna
+LOC Kagoshima
+LOC Kahului
+LOC Kakogawa
+LOC Kaktovik
+LOC Kalamazoo
+LOC Kaliningrad
+LOC Kalispell
+LOC Kalskag
+LOC Kaltag
+LOC Kampala
+LOC Kampong Saom
+LOC Kanab
+LOC Kanakanak
+LOC Kananga
+LOC Kano
+LOC Kansas City
+LOC Kaohsiung
+LOC Kao Hsiung
+LOC Karachi
+LOC Karachi Harbor
+LOC Karaganda
+LOC Karsto
+LOC Karup
+LOC Kasigluk
+LOC Kasko
+LOC Kathmandou
+LOC Kathmandu
+LOC Katunan
+LOC Kawasaki
+LOC Kelang
+LOC Kemaman Harbor
+LOC Kenai
+LOC Kerman
+LOC Ketchikan
+LOC Key West
+LOC Khabarovsk
+LOC Khartoum
+LOC Khorramshahr
+LOC Kiel
+LOC Kiev
+LOC Kigali
+LOC Kilburn
+LOC Kilimanjaro
+LOC Killeen
+LOC Kimberley
+LOC Kindu
+LOC King Cove
+LOC King Salmon
+LOC Kingston
+LOC Kingston-upon-Thames
+LOC Kingstown
+LOC Kinshasa
+LOC Kin Wan
+LOC Kipnuk
+LOC Kiruna
+LOC Kisangani
+LOC Kisarazu
+LOC Kishinev
+LOC Kivalina
+LOC Kkuujjuaq
+LOC Klagentfurt
+LOC Klaipeda
+LOC Knoxville
+LOC Kobe
+LOC Kobenhavn
+LOC Kochi
+LOC Kodiak
+LOC Kokruagarok
+LOC Kolonia
+LOC Komatsu
+LOC Kona
+LOC Kongiganak
+LOC Koror
+LOC Kosovo
+LOC Kosrae
+LOC Kota Kinabalu
+LOC Kotka
+LOC Kotzebue
+LOC Koweit
+LOC Koyukuk
+LOC Krasnojarsk
+LOC Kristiansand
+LOC Kristinestad
+LOC Kuala
+LOC Kuala Lumpur
+LOC Kuantan New Port
+LOC Kuching
+LOC Kumamoto
+LOC Kunming
+LOC Kuopio
+LOC Kure
+LOC Kushikino
+LOC Kushiro
+LOC Kuujjuarapik
+LOC Kuwait
+LOC Kwajalien
+LOC Kwangju
+LOC Kwethluk
+LOC Kwigillingok
+LOC Kyoto
+LOC Labuan
+LOC La Ceiba
+LOC La Coruna
+LOC La Crosse Wi
+LOC Lae
+LOC Lafayette
+LOC Lagos
+LOC La Grande
+LOC La Habana
+LOC Lahad Datu
+LOC Lahore
+LOC LahoreLancon
+LOC Lake Charles
+LOC Lake Havasu City
+LOC Lakehead Harbor
+LOC Lanai City
+LOC Lancaster
+LOC Lands End
+LOC Langkawi
+LOC Lannion
+LOC Lansing
+LOC Lanzhou
+LOC La Pallice
+LOC La Paz
+LOC La Plata
+LOC Laredo
+LOC Larnaca
+LOC La Rochelle
+LOC Las Palmas
+LOC La Spezia
+LOC Las Piedras
+LOC Las Vegas
+LOC Latouche
+LOC Launceston
+LOC Laval
+LOC Lawi Lawi
+LOC Lawton
+LOC Lax
+LOC Lebanon
+LOC Le Bourget
+LOC Leeds
+LOC Le Havre
+LOC Leinster
+LOC Leipzig
+LOC Leith
+LOC Leningrad
+LOC Le Palais
+LOC Lerwick
+LOC Les Sables Dolonne
+LOC Lethbridge
+LOC Lexington
+LOC Lhasa
+LOC Libourne
+LOC Libreville
+LOC Lido
+LOC Liepaja
+LOC Lihue
+LOC Lille
+LOC LilleLima
+LOC Lilongwe
+LOC Lima
+LOC Limerick
+LOC Limoges
+LOC Linate
+LOC Lincoln
+LOC Linz
+LOC Lisboa
+LOC Lisbon
+LOC Lisbonne
+LOC Little Rock
+LOC Liverpool
+LOC Livingstone
+LOC Livorno
+LOC Ljubljana
+LOC Lome
+LOC London
+LOC London City
+LOC Londres
+LOC Long Beach
+LOC Longview
+LOC Longyearbyen
+LOC Loreto
+LOC Lorient
+LOC Los Angeles
+LOC Los Cabos
+LOC Los Mochis
+LOC Louis
+LOC Louisville
+LOC Lourdes
+LOC Louviers
+LOC Luanda
+LOC Lubbock
+LOC Lubeck
+LOC Lubumbashi
+LOC Lucknow
+LOC Luda
+LOC Lueneburg
+LOC Lugano
+LOC Luka Gruz
+LOC Lulea
+LOC Lumpur
+LOC Luneville
+LOC Lusaka
+LOC Luxembourg
+LOC Luxor
+LOC Lyon
+LOC Maastricht
+LOC Macclesfield
+LOC Macon
+LOC Madinah
+LOC Madison
+LOC Madras
+LOC Madrid
+LOC Magadan
+LOC Magenta
+LOC Mahe
+LOC Mahe Island
+LOC Maiduguri
+LOC Maisons-Laffitte
+LOC Maizuru
+LOC Majuro
+LOC Malabo
+LOC Malaga
+LOC Male
+LOC Malindi
+LOC Malmo
+LOC Malmö
+LOC Malpensa
+LOC Malta
+LOC Malvern
+LOC Manado
+LOC Managua
+LOC Manama
+LOC Manaus
+LOC Manchester
+LOC Manhattan
+LOC Manila
+LOC Manille
+LOC Mans
+LOC Manzanillo
+LOC Maputo
+LOC Maracaibo
+LOC Margarita
+LOC Maribor
+LOC Marignane
+LOC Marion
+LOC Marlow
+LOC Marmorilik
+LOC Marquette
+LOC Marrakech
+LOC Marriot Astrodrome
+LOC Marseille
+LOC Marshall
+LOC Martha's Vineyard
+LOC Mascate
+LOC Maseru
+LOC Mashad
+LOC Matadi
+LOC Matamoros
+LOC Matsuyama
+LOC Maturin
+LOC Mauritius
+LOC Mayaguez
+LOC Mazatlan
+LOC Mbabane
+LOC Mbandaka
+LOC Mbuji-Mayi
+LOC McAllen
+LOC McGrath
+LOC Medan
+LOC Medellin
+LOC Medford
+LOC Meekatharra
+LOC Mekoryuk
+LOC Melbourne
+LOC Melun
+LOC Melville Hall
+LOC Memphis
+LOC Mendoza
+LOC Merida
+LOC Meriden
+LOC Meridian
+LOC Meshik
+LOC Messina
+LOC Metz
+LOC Mexicali
+LOC Mexico
+LOC Mexico City
+LOC Meylan
+LOC Miami
+LOC Milan
+LOC Milford
+LOC Milton Keynes
+LOC Milwaukee
+LOC Mina Jabal Ali
+LOC Minatitlan
+LOC Mineralnye Vody
+LOC Minh
+LOC Minneapolis
+LOC Minot
+LOC Minsk
+LOC Miquelon
+LOC Miri
+LOC Mishima Kawanoe
+LOC Missoula
+LOC Miyazaki
+LOC Mizushima
+LOC Mogadishu
+LOC Moji
+LOC Moline
+LOC Molokai
+LOC Molyneux
+LOC Mombasa
+LOC Monaco
+LOC Moncton
+LOC Mongstad
+LOC Monroe
+LOC Monrovia
+LOC Mont-De-Marsan
+LOC Montego
+LOC Montego Bay
+LOC Monterrey
+LOC Montervideo
+LOC Montevideo
+LOC Montgomery
+LOC Monticello
+LOC Montignac
+LOC Montigny
+LOC Montmorillon
+LOC Montpelier
+LOC Montpellier
+LOC Montreal
+LOC Mont-St-Michel
+LOC Morelia
+LOC Moresby
+LOC Moroni
+LOC Moscou
+LOC Moscow
+LOC Moses Point
+LOC Moskva
+LOC Mount Hagen
+LOC Mount Pleasant
+LOC Moutiers
+LOC Mulhouse
+LOC Mumbai
+LOC Munich
+LOC Munster
+LOC Murmansk
+LOC Muroran
+LOC Muscat
+LOC Muscle Shoals
+LOC Muskegon
+LOC Myrtle Beach
+LOC Nadi
+LOC Nagasaki
+LOC Nagayeva
+LOC Nagoya
+LOC Nairobi
+LOC Nanchang
+LOC Nancy
+LOC Nanisivik
+LOC Nanjing
+LOC Nanning
+LOC Nantes
+LOC Nantucket
+LOC Nanyuan
+LOC Napakiak
+LOC Napaskiak
+LOC Naples
+LOC Napoli
+LOC Narita
+LOC Nashville
+LOC Nassau
+LOC Natal
+LOC N'djamena
+LOC N'Djamena
+LOC Nemours
+LOC Nemrut
+LOC Nenana
+LOC Newark
+LOC New Bedford
+LOC New Bern
+LOC Newburgh
+LOC Newcastle
+LOC New Delhi
+LOC Newhalen
+LOC New Haven
+LOC New Orleans
+LOC Newport
+LOC Newtok
+LOC New Westminster
+LOC New York
+LOC New York City
+LOC Niagara Falls
+LOC Niamey
+LOC Nicosia
+LOC NicosieNimes
+LOC Nightmute
+LOC Niigata
+LOC Nijmegen
+LOC Nimes
+LOC Ningbo
+LOC Niort
+LOC Nis
+LOC Nizhnevartovsk
+LOC Nogales
+LOC Nogent
+LOC Nome
+LOC Norfolk
+LOC Norfolk Beach
+LOC Norilsk
+LOC Norman Wells
+LOC Norrkoping
+LOC Norte Los Rodeos
+LOC North Philadelphia
+LOC Norwich
+LOC Nottingham
+LOC Nouakchott
+LOC Noumea
+LOC Novi Sad
+LOC Novosibirsk
+LOC Nuevitas
+LOC Nuevo Laredo
+LOC Nuku'Alofa
+LOC Nukus
+LOC Nulato
+LOC Nunapitchuk
+LOC Nuremberg
+LOC Nuuk
+LOC Oakland
+LOC Oaxaca
+LOC Ockelbo
+LOC Odessa
+LOC Oita
+LOC Okadama
+LOC Okayama
+LOC Okinawa
+LOC Oklahoma City
+LOC Oldham
+LOC Old Harbor
+LOC Oliktok
+LOC Olympia
+LOC Omaha
+LOC Ontario
+LOC Oostende
+LOC Oran
+LOC Oranjestad
+LOC Orio Al Serio
+LOC Orlando
+LOC Orleans
+LOC Osaka
+LOC Oshkosh
+LOC Osijek
+LOC Oslo
+LOC Osorno
+LOC Ostend
+LOC Östersund
+LOC Otaru
+LOC Otopeni
+LOC Ottawa
+LOC Ouagadougou
+LOC Ovda
+LOC Oxnard
+LOC Pago Pago
+LOC Paitilla
+LOC Palaiseau
+LOC Palembang
+LOC Palermo
+LOC Palma
+LOC Palmer
+LOC Palm Springs
+LOC Palo Alto
+LOC Panama
+LOC Panama City
+LOC Panguitch
+LOC Papeete
+LOC Paphos
+LOC Paramaribo
+LOC Parempuyre
+LOC Paris
+LOC Parkersburg
+LOC Parme
+LOC Parthenay
+LOC Pasajes
+LOC Pascagoula
+LOC Pasco
+LOC Pau
+LOC Paulo
+LOC Paya Lebar
+LOC Paz
+LOC Pecos
+LOC Pedro Juan Caballero
+LOC Pekin
+LOC Penang
+LOC Penh
+LOC Pensacola
+LOC Peoria
+LOC Pereira
+LOC Perimeter Mall
+LOC Perpignan
+LOC Perryville
+LOC Perth
+LOC Pescara
+LOC Peshawar
+LOC Petersburg
+LOC Petropavlovsk
+LOC Philadelphia
+LOC Phnom
+LOC Phoenix
+LOC Phuket
+LOC Pierre
+LOC Pinang
+LOC Piraievs
+LOC Pisa
+LOC Pittsburgh
+LOC Piura
+LOC Plata
+LOC Platinum
+LOC Plymouth
+LOC Pocatello
+LOC Pohnpei
+LOC Point a Pitre
+LOC Pointe-à-Pitre
+LOC Point Hope
+LOC Point Lay
+LOC Poitiers
+LOC Polamar
+LOC Ponce
+LOC Ponta Delgada
+LOC Pontiac
+LOC Pontoise
+LOC Pori
+LOC Pornic
+LOC Port Adelaide
+LOC Port Arthur
+LOC Port au Prince
+LOC Port-au-Prince
+LOC Port Au Prince
+LOC Port-Au-Prince
+LOC Port Dalrymple
+LOC Port Elizabeth
+LOC Port Everglades
+LOC Port Graham
+LOC Port-Grimaud
+LOC Port Harcourt
+LOC Port Hedland
+LOC Port Heiden
+LOC Portland
+LOC Port Louis
+LOC Port Lyttelton
+LOC Port Moller
+LOC Port Moresby
+LOC Porto
+LOC Porto Alegre
+LOC Porto de Leixoes
+LOC Porto De Leixoes
+LOC Porto de Sines
+LOC Porto De Sines
+LOC Port of Spain
+LOC Port-of-Spain
+LOC Port Of Spain
+LOC Port of Tyne
+LOC Port Of Tyne
+LOC Porto-Novo
+LOC Porto Velho
+LOC Portsmouth
+LOC Portsmouth Harbor
+LOC Port Vila
+LOC Port-Villa
+LOC Prague
+LOC Praia
+LOC Presque Isle
+LOC Prestwick
+LOC Pretoria
+LOC Prince George
+LOC Prince Rupert
+LOC Providence
+LOC Providenciales
+LOC Prudhoe Bay
+LOC Pucallpa
+LOC Puebla
+LOC Puerto
+LOC Puerto Armuelles
+LOC Puerto Ayachucho
+LOC Puerto Del Callao
+LOC Puerto Escondido
+LOC Puerto La Cruz
+LOC Puerto La Guaira
+LOC Puerto Maldonado
+LOC Puerto Montt
+LOC Puerto Ordaz
+LOC Puerto Plata
+LOC Puerto Vallarta
+LOC Punta Arenas
+LOC Punta Palenque
+LOC Pusan
+LOC Pyongyang
+LOC Pyramiden
+LOC Qingdao
+LOC Quebec
+LOC Que Iboe
+LOC Quetta
+LOC Quimper
+LOC Quinhagak
+LOC Quito
+LOC Rabat
+LOC Rabaul
+LOC Raleigh
+LOC Ramstein
+LOC Rangoon
+LOC Ranton
+LOC Rapid City
+LOC Rarotonga
+LOC Ras At Tannurah
+LOC Ras Shukhier
+LOC Rauma
+LOC Recife
+LOC Red Devil
+LOC Redding
+LOC Red Dog
+LOC Redstone
+LOC Regina
+LOC Reims
+LOC Rennes
+LOC Reno
+LOC Resolute
+LOC Reunion
+LOC Reykjavik
+LOC Reze
+LOC Richards Bay
+LOC Richland
+LOC Richmond
+LOC Riga
+LOC Rijeka Luka
+LOC Rimini
+LOC Rio
+LOC Rio de Janeiro
+LOC Rio De Janeiro
+LOC Rio Gallegos
+LOC Rioja
+LOC Riverhead
+LOC Riyad
+LOC Riyadh
+LOC Road Town
+LOC Roanne
+LOC Roanoke
+LOC Roatan
+LOC Rochefort
+LOC Rochelle
+LOC Rochester
+LOC Rockford
+LOC Rocky Mount
+LOC Rodez
+LOC Roma
+LOC Rome
+LOC Roosevelt
+LOC Rosario
+LOC Roseau
+LOC Roskilde
+LOC Rota
+LOC Rothesay Dock
+LOC Rotterdam
+LOC Rouen
+LOC Roussillon
+LOC Ruby
+LOC Russian Mission
+LOC Saarbrucken
+LOC Sacramento
+LOC Safi
+LOC Saganoseki
+LOC Saginaw
+LOC Saigon
+LOC Saint-Denis
+LOC Saint-Etienne
+LOC Saint-Etienne Du Rouvray
+LOC Saint Georges
+LOC Saint-Jean
+LOC Saint Johns
+LOC Saint Michael
+LOC Saint-Nazaire
+LOC Saint-Omer
+LOC Saint Paul
+LOC Saint-Petersbourg
+LOC Saint Petersburg
+LOC Saint-Quentin
+LOC Saint-Sauveur
+LOC Saint-Sulpice
+LOC Saint-Tropez
+LOC Saipan
+LOC Sakai Senboku
+LOC Sakhalinsk
+LOC Sal
+LOC Saldanha Bay
+LOC Salem
+LOC Salmesbury
+LOC Salon-De-Provence
+LOC Saltillo
+LOC Salt Lake City
+LOC Salvador
+LOC Salzburg
+LOC San
+LOC Sanaa
+LOC Sana'A
+LOC San Andres Island
+LOC San Angelo
+LOC San Antonio
+LOC San Bernardino
+LOC Sandakan
+LOC San Diego
+LOC Sand Point
+LOC San Fernando
+LOC San Fernando de Apure
+LOC San Francisco
+LOC San Jose
+LOC San Juan
+LOC San Luis Potosi
+LOC San Pedro Sula
+LOC San Salvador
+LOC Santa Barbara
+LOC Santa Cruz
+LOC Santa Cruz De Tenerife
+LOC Santa Fe
+LOC Santa Maria
+LOC Santander
+LOC Santiago
+LOC Santiago de Compostela
+LOC Santiago De Cuba
+LOC Santo
+LOC Santo Domingo
+LOC San Tome
+LOC Santos
+LOC Santos Dumont
+LOC Sanya
+LOC Sanzibar
+LOC Sao
+LOC Sao Luiz
+LOC Sao Paulo
+LOC Sao Tome
+LOC Sao Tome Island
+LOC Sapporo
+LOC Sarajevo
+LOC Sarasota
+LOC Sasebo
+LOC Sault St. Marie
+LOC Sauveterre-De-Bearn
+LOC Savannah
+LOC Savona
+LOC Scammon Bay
+LOC Scatsta
+LOC Sde Dov
+LOC Seattle
+LOC Sedona
+LOC Segrate
+LOC Seldovia
+LOC Seletar
+LOC Sendai
+LOC Seoul
+LOC Seri
+LOC Sevilla
+LOC Seville
+LOC Seward
+LOC Shageluk
+LOC Shanghai
+LOC Shang Hai
+LOC Shannon
+LOC Shantou
+LOC Sharjah
+LOC Sheffield
+LOC Shemya Islands
+LOC Shenyang
+LOC Shenzhen
+LOC Sheremetyevo
+LOC Shibushi
+LOC Shields Harbor
+LOC Shijiazhuang
+LOC Shimizu
+LOC Shimonoseki
+LOC Shiraz
+LOC Shishmaref
+LOC Shreveport
+LOC Shung Shan
+LOC Sibenik
+LOC Sibu
+LOC Simferopol
+LOC Singapore
+LOC Singapour
+LOC Sioux City
+LOC Sioux Falls
+LOC Siracusa
+LOC Sirri Island
+LOC Sitka
+LOC Sizewell
+LOC Skagway
+LOC Skulte
+LOC Sleetmute
+LOC Sochi
+LOC Sofia
+LOC Sokoto
+LOC Soldotna
+LOC Sonderborg
+LOC Sondre Stromfjord
+LOC Southampton
+LOC South Bend
+LOC Split
+LOC Springfield
+LOC Starkville
+LOC Stavanger
+LOC Stavenger
+LOC St. Denis de la Reunion
+LOC Steamboat Spring
+LOC Stevens Village
+LOC St. George
+LOC St. George Island
+LOC St. Helena
+LOC St John
+LOC St. Johns
+LOC St. Kitts
+LOC St. Kitts and Nevis
+LOC St Louis
+LOC St. Louis
+LOC St. Lucia
+LOC St. Maarten
+LOC St. Mary's
+LOC St Nazaire
+LOC Stockholm
+LOC Stockport
+LOC Stockton
+LOC Stoke-on-Trent
+LOC Stoke Poges
+LOC Stony River
+LOC Storlien
+LOC St. Paul
+LOC St-Petersburg
+LOC St. Petersburg
+LOC St-Pierre
+LOC St. Pierre and Miquelon
+LOC Strasbourg
+LOC St. Thomas
+LOC Studstrup
+LOC Stuttgart
+LOC St. Vincent
+LOC St. Vincent and the Grenadines
+LOC Sudbury
+LOC Sukhumi
+LOC Sumuburgh
+LOC Sunderland
+LOC Sundsvall
+LOC Superior
+LOC Surabaya
+LOC Sur Reine Sofia
+LOC Suva
+LOC Swanage
+LOC Swansea
+LOC Swatow
+LOC Sydney
+LOC Syracuse
+LOC Szczecin
+LOC Tabriz
+LOC Tabuk
+LOC Tachibana
+LOC Tacna
+LOC Tacoma
+LOC Taegu
+LOC Tagonoura
+LOC Tahkoluoto
+LOC Taif
+LOC Taipeh
+LOC Taipei
+LOC Tai-pei
+LOC Taiyuan
+LOC Takamatsu
+LOC Takoradi
+LOC Talara
+LOC Talkeetna
+LOC Tallahassee
+LOC Tallinn
+LOC Tamanrasset
+LOC Tamiami
+LOC Tampa
+LOC Tampere
+LOC Tampico
+LOC Tanana
+LOC Tananarive
+LOC Tanger
+LOC Tangier
+LOC Tanjungpriok
+LOC Tapis
+LOC Tapis Oilfield
+LOC Tarabulus
+LOC Taranto
+LOC Tarapoto
+LOC Tarawa
+LOC Tarbes
+LOC Tashkent
+LOC Tawau
+LOC Tazerka
+LOC Tbilisi
+LOC Teesport
+LOC Teesside
+LOC Tegel
+LOC Tegucigalpa
+LOC Teheran
+LOC Tehran
+LOC Tel Aviv
+LOC Tel Aviv-Yafo
+LOC Teller
+LOC Tempelhof
+LOC Temuco
+LOC Tenerife
+LOC Tepic
+LOC Terceira
+LOC Terneuzen
+LOC Terrace
+LOC Tetlin Junction
+LOC Texarkana
+LOC Thanh Pho Ho Chi Minh
+LOC Thann
+LOC Thessaloniki
+LOC Thessalonoki
+LOC The Valley
+LOC Thimphu
+LOC Thonon
+LOC Thunder Bay
+LOC Tianjin
+LOC Tijuana
+LOC Timisoara
+LOC Tinee
+LOC Tingo Maria
+LOC Tingwall
+LOC Tinson
+LOC Tirana
+LOC Tirane
+LOC Tobago
+LOC Togiak
+LOC Toksook Bay
+LOC Tokushimax
+LOC Tokyo
+LOC Toledo
+LOC Tompkinsville Si
+LOC Tongatapu
+LOC Tonnerre
+LOC Topeka
+LOC Toronto
+LOC Toronto Island
+LOC Torreon
+LOC Tortola
+LOC Tottori
+LOC Toucy
+LOC Toulon
+LOC Toulouse
+LOC Tours
+LOC Toyama
+LOC Traverse City
+LOC Trenton
+LOC Tresco
+LOC Treviso
+LOC Trieste
+LOC Trincomalee Harbor
+LOC Trinite
+LOC Tripoli
+LOC Trivandrum
+LOC Trois Rivieres
+LOC Trombetas
+LOC Tromso
+LOC Trondheim
+LOC Troyes
+LOC Trujillo
+LOC Truk
+LOC Tucson
+LOC Tulsa
+LOC Tuluksak
+LOC Tumbes
+LOC Tunis
+LOC Tunstall
+LOC Tuntutuliak
+LOC Tununak
+LOC Turin
+LOC Turku
+LOC Tuscaloosa
+LOC Tuxtla Gutierrez
+LOC Tuzla
+LOC Twin Falls
+LOC Tyler
+LOC Ube
+LOC Ujung Pandang
+LOC Ukiah
+LOC Ulaanbaatar
+LOC Ulan Bator
+LOC Umea
+LOC Umiat
+LOC Umkumiut
+LOC Unalakleet
+LOC Ungalik
+LOC Uppsala
+LOC Urumqi
+LOC Ussel
+LOC Utopia
+LOC Vaasa
+LOC Vaduz
+LOC Valdez
+LOC Val d'Or
+LOC Val D'Or
+LOC Valdosta
+LOC Valencia
+LOC Valera
+LOC Valladolid
+LOC Vallarta
+LOC Valletta
+LOC Valparaiso
+LOC Vancouver
+LOC Vannes
+LOC Varadero
+LOC Varengeville
+LOC Varsovie
+LOC Vasteras
+LOC Vatican
+LOC Vaxjo
+LOC Vegas
+LOC Vejle
+LOC Venetie
+LOC Venice
+LOC Venise
+LOC Veracruz
+LOC Vernal
+LOC Verona
+LOC Versailles
+LOC Vichy
+LOC Victoria
+LOC Victoria Harbor
+LOC Vienna
+LOC Vienne
+LOC Vientiane
+LOC Vieques
+LOC Vigo
+LOC Villahermosa
+LOC Villanueva
+LOC Villefranche-Sur-Saone
+LOC Villepreux
+LOC Villeurbanne
+LOC Vilnius
+LOC Viracopos
+LOC Viroflay
+LOC Vishakhapatnam
+LOC Vitrolles
+LOC Vladivostok
+LOC Vlissingen
+LOC Vnukovo
+LOC Voiron
+LOC Voreppe
+LOC Vyborg
+LOC Wabush
+LOC Waco
+LOC Wadi Feiran
+LOC Wainwright
+LOC Wakamatsu
+LOC Wallis
+LOC Warsaw
+LOC Washington
+LOC Washington, DC
+LOC Watson Lake
+LOC Wausau
+LOC Weisbaden
+LOC Wellington
+LOC Wells
+LOC Wembley
+LOC Wenatchee
+LOC Wendover
+LOC Westchester County
+LOC Westminster
+LOC West Palm Beach
+LOC West Point
+LOC Wevok
+LOC Weymouth
+LOC Whitehall
+LOC Whitehorse
+LOC Whittier
+LOC Wichita
+LOC Wichita Falls
+LOC Wiesbaden
+LOC Wilkes-Barre
+LOC Willemstad
+LOC Williamsburg
+LOC Willow
+LOC Willow Run
+LOC Wilmington
+LOC Wilson
+LOC Windhoek
+LOC Windsor
+LOC Winnipeg
+LOC Winston-Salem
+LOC Woolwich
+LOC Wrangell
+LOC Wuhan
+LOC Xiamen
+LOC Xian
+LOC Yakima
+LOC Yakutat
+LOC Yamagata
+LOC Yanan
+LOC Yangon
+LOC Yantai
+LOC Yaounde
+LOC Yap Caroline Island
+LOC Yaren
+LOC Yellowknife
+LOC Yerevan
+LOC Yinchuang
+LOC Yokkaichi
+LOC Yokohama
+LOC Yokosuka
+LOC York
+LOC Yuma
+LOC Yurimaguas
+LOC Yuzhno
+LOC Zacatecas
+LOC Zagreb
+LOC Zahedan
+LOC Zaragoza
+LOC Zeebrugge
+LOC Zhanjiang
+LOC Zhengzhou
+LOC Zihuatanejo
+LOC Zorg en Hoop
+LOC Zorg En Hoop
+LOC Zurich
+
+
